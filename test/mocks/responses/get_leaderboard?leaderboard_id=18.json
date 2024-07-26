@@ -1,0 +1,119 @@
+{
+  "result": {
+    "code": 0,
+    "message": "SUCCESS"
+  },
+  "statGroups": [
+    {
+      "id": 6872751,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 12507596,
+          "name": "/xboxlive/06E316A84042123AE2B7317C4FC3A510D42B6962",
+          "alias": "A554551N8",
+          "personal_statgroup_id": 6872751,
+          "xp": 2315,
+          "level": 2,
+          "leaderboardregion_id": 3,
+          "country": "us"
+        }
+      ]
+    },
+    {
+      "id": 8045000,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 13624096,
+          "name": "/xboxlive/0D678E8D4619BCEEF0B6096ACE92C6D9EC8CDFE9",
+          "alias": "CarefulTulip69",
+          "personal_statgroup_id": 8045000,
+          "xp": 2576,
+          "level": 2,
+          "leaderboardregion_id": 3,
+          "country": "us"
+        }
+      ]
+    },
+    {
+      "id": 6824449,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 12463302,
+          "name": "/xboxlive/8E88EADE0389EDDF7713D90B3511FD92E156044A",
+          "alias": "Lu Kung Foo",
+          "personal_statgroup_id": 6824449,
+          "xp": 2839,
+          "level": 2,
+          "leaderboardregion_id": 3,
+          "country": "us"
+        }
+      ]
+    }
+  ],
+  "leaderboardStats": [
+    {
+      "statgroup_id": 6824449,
+      "leaderboard_id": 18,
+      "wins": 11,
+      "losses": 6,
+      "streak": 1,
+      "disputes": 0,
+      "drops": 1,
+      "rank": 1,
+      "ranktotal": 3,
+      "ranklevel": 1,
+      "rating": 1089,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721019105,
+      "highestrank": 1,
+      "highestranklevel": 1,
+      "highestrating": 1162
+    },
+    {
+      "statgroup_id": 8045000,
+      "leaderboard_id": 18,
+      "wins": 10,
+      "losses": 9,
+      "streak": -2,
+      "disputes": 0,
+      "drops": 0,
+      "rank": 2,
+      "ranktotal": 3,
+      "ranklevel": 1,
+      "rating": 1039,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721019105,
+      "highestrank": 2,
+      "highestranklevel": 1,
+      "highestrating": 1098
+    },
+    {
+      "statgroup_id": 6872751,
+      "leaderboard_id": 18,
+      "wins": 16,
+      "losses": 17,
+      "streak": -2,
+      "disputes": 0,
+      "drops": 0,
+      "rank": 3,
+      "ranktotal": 3,
+      "ranklevel": 1,
+      "rating": 1001,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721019105,
+      "highestrank": 1,
+      "highestranklevel": 1,
+      "highestrating": 1054
+    }
+  ],
+  "rankTotal": 3
+}

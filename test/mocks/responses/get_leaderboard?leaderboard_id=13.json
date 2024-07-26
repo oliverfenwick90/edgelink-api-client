@@ -1,0 +1,83 @@
+{
+  "result": {
+    "code": 0,
+    "message": "SUCCESS"
+  },
+  "statGroups": [
+    {
+      "id": 5975899,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 10493873,
+          "name": "/steam/76561198218429475",
+          "alias": "Feiuna",
+          "personal_statgroup_id": 5975899,
+          "xp": 561,
+          "level": 1,
+          "leaderboardregion_id": 2,
+          "country": "tr"
+        }
+      ]
+    },
+    {
+      "id": 5573097,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 9572029,
+          "name": "/steam/76561199242746196",
+          "alias": "carloscanon98",
+          "personal_statgroup_id": 5573097,
+          "xp": 904,
+          "level": 1,
+          "leaderboardregion_id": 4,
+          "country": "co"
+        }
+      ]
+    }
+  ],
+  "leaderboardStats": [
+    {
+      "statgroup_id": 5975899,
+      "leaderboard_id": 13,
+      "wins": 64,
+      "losses": 58,
+      "streak": -2,
+      "disputes": 0,
+      "drops": 13,
+      "rank": 1,
+      "ranktotal": 2,
+      "ranklevel": 1,
+      "rating": 1019,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1701009369,
+      "highestrank": 1,
+      "highestranklevel": 1,
+      "highestrating": 1033
+    },
+    {
+      "statgroup_id": 5573097,
+      "leaderboard_id": 13,
+      "wins": 104,
+      "losses": 114,
+      "streak": 1,
+      "disputes": 0,
+      "drops": 13,
+      "rank": 2,
+      "ranktotal": 2,
+      "ranklevel": 1,
+      "rating": 763,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1710871203,
+      "highestrank": 2,
+      "highestranklevel": 1,
+      "highestrating": 848
+    }
+  ],
+  "rankTotal": 2
+}

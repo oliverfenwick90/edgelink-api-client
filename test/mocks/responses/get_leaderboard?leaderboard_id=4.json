@@ -1,0 +1,7211 @@
+{
+  "result": {
+    "code": 0,
+    "message": "SUCCESS"
+  },
+  "statGroups": [
+    {
+      "id": 5310457,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 8760794,
+          "name": "/steam/76561199226277878",
+          "alias": "LuckAss105",
+          "personal_statgroup_id": 5310457,
+          "xp": 3128,
+          "level": 2,
+          "leaderboardregion_id": 0,
+          "country": "de"
+        }
+      ]
+    },
+    {
+      "id": 2496487,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 2766375,
+          "name": "/steam/76561199062540962",
+          "alias": "Hadeo",
+          "personal_statgroup_id": 2496487,
+          "xp": 3655,
+          "level": 2,
+          "leaderboardregion_id": 0,
+          "country": "fr"
+        }
+      ]
+    },
+    {
+      "id": 18133,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 221997,
+          "name": "/steam/76561197961767770",
+          "alias": "Inc",
+          "personal_statgroup_id": 18133,
+          "xp": 5946,
+          "level": 3,
+          "leaderboardregion_id": 3,
+          "country": "us"
+        }
+      ]
+    },
+    {
+      "id": 5318737,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 8802779,
+          "name": "/steam/76561199226880006",
+          "alias": "Elnath",
+          "personal_statgroup_id": 5318737,
+          "xp": 5706,
+          "level": 3,
+          "leaderboardregion_id": 0,
+          "country": "lv"
+        }
+      ]
+    },
+    {
+      "id": 9091405,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 14964155,
+          "name": "/steam/76561199500764305",
+          "alias": "Idol_",
+          "personal_statgroup_id": 9091405,
+          "xp": 2017,
+          "level": 2,
+          "leaderboardregion_id": 2,
+          "country": "cn"
+        }
+      ]
+    },
+    {
+      "id": 1474919,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 1696082,
+          "name": "/steam/76561199025971376",
+          "alias": "OnLeKe",
+          "personal_statgroup_id": 1474919,
+          "xp": 1810,
+          "level": 1,
+          "leaderboardregion_id": 4,
+          "country": "br"
+        }
+      ]
+    },
+    {
+      "id": 228403,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 394673,
+          "name": "/steam/76561198822411284",
+          "alias": "nohope Willy",
+          "personal_statgroup_id": 228403,
+          "xp": 3585,
+          "level": 2,
+          "leaderboardregion_id": 3,
+          "country": "ca"
+        }
+      ]
+    },
+    {
+      "id": 1554006,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 1778055,
+          "name": "/steam/76561198333972982",
+          "alias": "Jouds",
+          "personal_statgroup_id": 1554006,
+          "xp": 3546,
+          "level": 2,
+          "leaderboardregion_id": 0,
+          "country": "de"
+        }
+      ]
+    },
+    {
+      "id": 1633142,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 1853539,
+          "name": "/steam/76561198345325805",
+          "alias": "AOKI_Nyusika",
+          "personal_statgroup_id": 1633142,
+          "xp": 3258,
+          "level": 2,
+          "leaderboardregion_id": 0,
+          "country": "fr"
+        }
+      ]
+    },
+    {
+      "id": 39756,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 239238,
+          "name": "/steam/76561198113285862",
+          "alias": "Fedex_zZ",
+          "personal_statgroup_id": 39756,
+          "xp": 3087,
+          "level": 2,
+          "leaderboardregion_id": 4,
+          "country": "ar"
+        }
+      ]
+    },
+    {
+      "id": 3072348,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 3386424,
+          "name": "/steam/76561199050262885",
+          "alias": "羽田蓝天",
+          "personal_statgroup_id": 3072348,
+          "xp": 1247,
+          "level": 1,
+          "leaderboardregion_id": 4,
+          "country": "ar"
+        }
+      ]
+    },
+    {
+      "id": 8596881,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 14328623,
+          "name": "/steam/76561199485966067",
+          "alias": "Savage",
+          "personal_statgroup_id": 8596881,
+          "xp": 2931,
+          "level": 2,
+          "leaderboardregion_id": 0,
+          "country": "de"
+        }
+      ]
+    },
+    {
+      "id": 551718,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 689666,
+          "name": "/steam/76561198055330361",
+          "alias": "Good_luck",
+          "personal_statgroup_id": 551718,
+          "xp": 4187,
+          "level": 2,
+          "leaderboardregion_id": 0,
+          "country": "dk"
+        }
+      ]
+    },
+    {
+      "id": 861377,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 1010502,
+          "name": "/steam/76561198049246943",
+          "alias": "Langdd",
+          "personal_statgroup_id": 861377,
+          "xp": 3816,
+          "level": 2,
+          "leaderboardregion_id": 2,
+          "country": "cn"
+        }
+      ]
+    },
+    {
+      "id": 885224,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 1034303,
+          "name": "/steam/76561198156754737",
+          "alias": "[SiG] Eagle",
+          "personal_statgroup_id": 885224,
+          "xp": 2592,
+          "level": 2,
+          "leaderboardregion_id": 4,
+          "country": "ar"
+        }
+      ]
+    },
+    {
+      "id": 36592,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 236757,
+          "name": "/steam/76561198423000386",
+          "alias": "Mica",
+          "personal_statgroup_id": 36592,
+          "xp": 1707,
+          "level": 1,
+          "leaderboardregion_id": 4,
+          "country": "ar"
+        }
+      ]
+    },
+    {
+      "id": 18263,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 222102,
+          "name": "/steam/76561198107361309",
+          "alias": "mYi.Annotoph",
+          "personal_statgroup_id": 18263,
+          "xp": 5188,
+          "level": 2,
+          "leaderboardregion_id": 0,
+          "country": "de"
+        }
+      ]
+    },
+    {
+      "id": 61573,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 256338,
+          "name": "/steam/76561198007187809",
+          "alias": "Running",
+          "personal_statgroup_id": 61573,
+          "xp": 6155,
+          "level": 3,
+          "leaderboardregion_id": 0,
+          "country": "de"
+        }
+      ]
+    },
+    {
+      "id": 6710200,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 12281774,
+          "name": "/steam/76561198434931018",
+          "alias": "萌小鸭",
+          "personal_statgroup_id": 6710200,
+          "xp": 1563,
+          "level": 1,
+          "leaderboardregion_id": 2,
+          "country": "cn"
+        }
+      ]
+    },
+    {
+      "id": 9511234,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 15542278,
+          "name": "/steam/76561199523115403",
+          "alias": "[LW] die insect",
+          "personal_statgroup_id": 9511234,
+          "xp": 971,
+          "level": 1,
+          "leaderboardregion_id": 0,
+          "country": "ru"
+        }
+      ]
+    },
+    {
+      "id": 119505,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 302474,
+          "name": "/steam/76561198121604926",
+          "alias": "influ",
+          "personal_statgroup_id": 119505,
+          "xp": 2462,
+          "level": 2,
+          "leaderboardregion_id": 3,
+          "country": "us"
+        }
+      ]
+    },
+    {
+      "id": 427697,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 573282,
+          "name": "/steam/76561198411901312",
+          "alias": "LACA | Terz",
+          "personal_statgroup_id": 427697,
+          "xp": 6661,
+          "level": 3,
+          "leaderboardregion_id": 0,
+          "country": "de"
+        }
+      ]
+    },
+    {
+      "id": 619706,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 757886,
+          "name": "/steam/76561198112235172",
+          "alias": "VN_DarK_KnighT_",
+          "personal_statgroup_id": 619706,
+          "xp": 2854,
+          "level": 2,
+          "leaderboardregion_id": 3,
+          "country": "mx"
+        }
+      ]
+    },
+    {
+      "id": 11118684,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 19743198,
+          "name": "/steam/76561199685225384",
+          "alias": "Asyoubelt",
+          "personal_statgroup_id": 11118684,
+          "xp": 50,
+          "level": 1,
+          "leaderboardregion_id": 2,
+          "country": "tr"
+        }
+      ]
+    },
+    {
+      "id": 121023,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 303714,
+          "name": "/steam/76561198018553433",
+          "alias": "Big Tuna",
+          "personal_statgroup_id": 121023,
+          "xp": 2134,
+          "level": 2,
+          "leaderboardregion_id": 3,
+          "country": "us"
+        }
+      ]
+    },
+    {
+      "id": 4651769,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 5941695,
+          "name": "/steam/76561198139890270",
+          "alias": "Bel",
+          "personal_statgroup_id": 4651769,
+          "xp": 2820,
+          "level": 2,
+          "leaderboardregion_id": 3,
+          "country": "us"
+        }
+      ]
+    },
+    {
+      "id": 2185744,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 2444511,
+          "name": "/steam/76561199050196526",
+          "alias": "Gabi",
+          "personal_statgroup_id": 2185744,
+          "xp": 6939,
+          "level": 3,
+          "leaderboardregion_id": 4,
+          "country": "br"
+        }
+      ]
+    },
+    {
+      "id": 4844225,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 6251969,
+          "name": "/steam/76561199197224738",
+          "alias": "猪咪咪咪咪",
+          "personal_statgroup_id": 4844225,
+          "xp": 4428,
+          "level": 2,
+          "leaderboardregion_id": 2,
+          "country": "cn"
+        }
+      ]
+    },
+    {
+      "id": 5860484,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 10245217,
+          "name": "/steam/76561199259122426",
+          "alias": "aazz",
+          "personal_statgroup_id": 5860484,
+          "xp": 150,
+          "level": 1,
+          "leaderboardregion_id": 2,
+          "country": "tw"
+        }
+      ]
+    },
+    {
+      "id": 6499576,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 11874537,
+          "name": "/steam/76561199444965726",
+          "alias": "Frenkie",
+          "personal_statgroup_id": 6499576,
+          "xp": 1007,
+          "level": 1,
+          "leaderboardregion_id": 0,
+          "country": "sk"
+        }
+      ]
+    },
+    {
+      "id": 3132727,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 3451288,
+          "name": "/steam/76561199091836047",
+          "alias": "Sat",
+          "personal_statgroup_id": 3132727,
+          "xp": 4415,
+          "level": 2,
+          "leaderboardregion_id": 4,
+          "country": "ar"
+        }
+      ]
+    },
+    {
+      "id": 7582,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 213355,
+          "name": "/steam/76561198303883553",
+          "alias": "RoR | Kamigawa",
+          "personal_statgroup_id": 7582,
+          "xp": 2890,
+          "level": 2,
+          "leaderboardregion_id": 0,
+          "country": "de"
+        }
+      ]
+    },
+    {
+      "id": 3316838,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 3879633,
+          "name": "/steam/76561198411004513",
+          "alias": "Improvise",
+          "personal_statgroup_id": 3316838,
+          "xp": 2518,
+          "level": 2,
+          "leaderboardregion_id": 3,
+          "country": "us"
+        }
+      ]
+    },
+    {
+      "id": 2505986,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 2776293,
+          "name": "/steam/76561199063069362",
+          "alias": "Combi | KinGStone",
+          "personal_statgroup_id": 2505986,
+          "xp": 6413,
+          "level": 3,
+          "leaderboardregion_id": 3,
+          "country": "mx"
+        }
+      ]
+    },
+    {
+      "id": 4162699,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 5188554,
+          "name": "/steam/76561198244808072",
+          "alias": "Mr. L'amore",
+          "personal_statgroup_id": 4162699,
+          "xp": 5090,
+          "level": 2,
+          "leaderboardregion_id": 0,
+          "country": "lv"
+        }
+      ]
+    },
+    {
+      "id": 255,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 197388,
+          "name": "/steam/76561198088251629",
+          "alias": "GL.TaToH",
+          "personal_statgroup_id": 255,
+          "xp": 7405,
+          "level": 3,
+          "leaderboardregion_id": 0,
+          "country": "es"
+        }
+      ]
+    },
+    {
+      "id": 236159,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 401359,
+          "name": "/steam/76561198434294840",
+          "alias": "KH_EnvyZ",
+          "personal_statgroup_id": 236159,
+          "xp": 3882,
+          "level": 2,
+          "leaderboardregion_id": 3,
+          "country": "mx"
+        }
+      ]
+    },
+    {
+      "id": 2010101,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 2262114,
+          "name": "/steam/76561198355480784",
+          "alias": "It's Me, Dreo!",
+          "personal_statgroup_id": 2010101,
+          "xp": 3199,
+          "level": 2,
+          "leaderboardregion_id": 0,
+          "country": "it"
+        }
+      ]
+    },
+    {
+      "id": 2389202,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 2654577,
+          "name": "/steam/76561198826220092",
+          "alias": "Ozone",
+          "personal_statgroup_id": 2389202,
+          "xp": 11788,
+          "level": 4,
+          "leaderboardregion_id": 4,
+          "country": "co"
+        }
+      ]
+    },
+    {
+      "id": 4917212,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 6368179,
+          "name": "/steam/76561199023444733",
+          "alias": "VENÓN | Ferxxo 101",
+          "personal_statgroup_id": 4917212,
+          "xp": 3027,
+          "level": 2,
+          "leaderboardregion_id": 3,
+          "country": "mx"
+        }
+      ]
+    },
+    {
+      "id": 270706,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 431744,
+          "name": "/steam/76561198077768177",
+          "alias": "Rubenstock",
+          "personal_statgroup_id": 270706,
+          "xp": 6853,
+          "level": 3,
+          "leaderboardregion_id": 0,
+          "country": "fi"
+        }
+      ]
+    },
+    {
+      "id": 4335436,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 5442827,
+          "name": "/steam/76561198144230634",
+          "alias": "Pedreiro",
+          "personal_statgroup_id": 4335436,
+          "xp": 3998,
+          "level": 2,
+          "leaderboardregion_id": 4,
+          "country": "br"
+        }
+      ]
+    },
+    {
+      "id": 758592,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 907793,
+          "name": "/steam/76561198823680410",
+          "alias": "LACA | Acro17",
+          "personal_statgroup_id": 758592,
+          "xp": 4470,
+          "level": 2,
+          "leaderboardregion_id": 0,
+          "country": "de"
+        }
+      ]
+    },
+    {
+      "id": 5331864,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 8864570,
+          "name": "/steam/76561199227830199",
+          "alias": "Sinman",
+          "personal_statgroup_id": 5331864,
+          "xp": 1161,
+          "level": 1,
+          "leaderboardregion_id": 2,
+          "country": "tw"
+        }
+      ]
+    },
+    {
+      "id": 9276706,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 15219650,
+          "name": "/steam/76561198880098512",
+          "alias": "HqSu",
+          "personal_statgroup_id": 9276706,
+          "xp": 1196,
+          "level": 1,
+          "leaderboardregion_id": 0,
+          "country": "fr"
+        }
+      ]
+    },
+    {
+      "id": 89907,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 279036,
+          "name": "/steam/76561198314917416",
+          "alias": "m0re",
+          "personal_statgroup_id": 89907,
+          "xp": 5305,
+          "level": 2,
+          "leaderboardregion_id": 0,
+          "country": "es"
+        }
+      ]
+    },
+    {
+      "id": 5290407,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 8657232,
+          "name": "/steam/76561199225114033",
+          "alias": "|||||||||w",
+          "personal_statgroup_id": 5290407,
+          "xp": 2073,
+          "level": 2,
+          "leaderboardregion_id": 2,
+          "country": "in"
+        }
+      ]
+    },
+    {
+      "id": 3905029,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 4797984,
+          "name": "/steam/76561198822411126",
+          "alias": "苦修",
+          "personal_statgroup_id": 3905029,
+          "xp": 564,
+          "level": 1,
+          "leaderboardregion_id": 2,
+          "country": "cn"
+        }
+      ]
+    },
+    {
+      "id": 3648479,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 4412109,
+          "name": "/steam/76561199084632694",
+          "alias": "HGB_AOE",
+          "personal_statgroup_id": 3648479,
+          "xp": 4092,
+          "level": 2,
+          "leaderboardregion_id": 3,
+          "country": "mx"
+        }
+      ]
+    },
+    {
+      "id": 3536685,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 4240317,
+          "name": "/steam/76561198154992750",
+          "alias": "BoyWonder_",
+          "personal_statgroup_id": 3536685,
+          "xp": 9158,
+          "level": 3,
+          "leaderboardregion_id": 2,
+          "country": "tr"
+        }
+      ]
+    },
+    {
+      "id": 213725,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 382118,
+          "name": "/steam/76561198350239309",
+          "alias": "Locke",
+          "personal_statgroup_id": 213725,
+          "xp": 2517,
+          "level": 2,
+          "leaderboardregion_id": 3,
+          "country": "us"
+        }
+      ]
+    },
+    {
+      "id": 2746957,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 3035292,
+          "name": "/steam/76561198823651807",
+          "alias": "XEVER | Rivux",
+          "personal_statgroup_id": 2746957,
+          "xp": 7896,
+          "level": 3,
+          "leaderboardregion_id": 4,
+          "country": "ar"
+        }
+      ]
+    },
+    {
+      "id": 2646587,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 2925148,
+          "name": "/steam/76561199067292136",
+          "alias": "牙签",
+          "personal_statgroup_id": 2646587,
+          "xp": 2021,
+          "level": 2,
+          "leaderboardregion_id": 2,
+          "country": "cn"
+        }
+      ]
+    },
+    {
+      "id": 10848630,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 19083604,
+          "name": "/steam/76561199650314410",
+          "alias": "kiryu kazuma",
+          "personal_statgroup_id": 10848630,
+          "xp": 201,
+          "level": 1,
+          "leaderboardregion_id": 2,
+          "country": "hk"
+        }
+      ]
+    },
+    {
+      "id": 4758,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 211026,
+          "name": "/steam/76561198056640339",
+          "alias": "BOT Marley",
+          "personal_statgroup_id": 4758,
+          "xp": 2910,
+          "level": 2,
+          "leaderboardregion_id": 0,
+          "country": "de"
+        }
+      ]
+    },
+    {
+      "id": 2970768,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 3277498,
+          "name": "/steam/76561199080093126",
+          "alias": "Nayuta",
+          "personal_statgroup_id": 2970768,
+          "xp": 2239,
+          "level": 2,
+          "leaderboardregion_id": 4,
+          "country": "py"
+        }
+      ]
+    },
+    {
+      "id": 476013,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 618258,
+          "name": "/steam/76561198083490888",
+          "alias": "ビッグドンベピス",
+          "personal_statgroup_id": 476013,
+          "xp": 1889,
+          "level": 1,
+          "leaderboardregion_id": 0,
+          "country": "nl"
+        }
+      ]
+    },
+    {
+      "id": 1124440,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 1332828,
+          "name": "/steam/76561198097888983",
+          "alias": "OX",
+          "personal_statgroup_id": 1124440,
+          "xp": 3398,
+          "level": 2,
+          "leaderboardregion_id": 2,
+          "country": "cn"
+        }
+      ]
+    },
+    {
+      "id": 4598811,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 5854345,
+          "name": "/steam/76561199176944754",
+          "alias": "adduOP",
+          "personal_statgroup_id": 4598811,
+          "xp": 4892,
+          "level": 2,
+          "leaderboardregion_id": 2,
+          "country": "in"
+        }
+      ]
+    },
+    {
+      "id": 116966,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 300454,
+          "name": "/steam/76561198418180188",
+          "alias": "Solomon",
+          "personal_statgroup_id": 116966,
+          "xp": 5221,
+          "level": 2,
+          "leaderboardregion_id": 2,
+          "country": "cn"
+        }
+      ]
+    },
+    {
+      "id": 11138242,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 19793956,
+          "name": "/steam/76561199659362506",
+          "alias": "Firecooks",
+          "personal_statgroup_id": 11138242,
+          "xp": 141,
+          "level": 1,
+          "leaderboardregion_id": 2,
+          "country": "cn"
+        }
+      ]
+    },
+    {
+      "id": 4239499,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 5303231,
+          "name": "/steam/76561199153009563",
+          "alias": "_Imfury_",
+          "personal_statgroup_id": 4239499,
+          "xp": 2656,
+          "level": 2,
+          "leaderboardregion_id": 3,
+          "country": "mx"
+        }
+      ]
+    },
+    {
+      "id": 1137,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 208393,
+          "name": "/steam/76561198027378107",
+          "alias": "Nicov",
+          "personal_statgroup_id": 1137,
+          "xp": 7155,
+          "level": 3,
+          "leaderboardregion_id": 0,
+          "country": "it"
+        }
+      ]
+    },
+    {
+      "id": 55127,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 251265,
+          "name": "/steam/76561197996386232",
+          "alias": "TheMbL",
+          "personal_statgroup_id": 55127,
+          "xp": 7551,
+          "level": 3,
+          "leaderboardregion_id": 0,
+          "country": "no"
+        }
+      ]
+    },
+    {
+      "id": 809965,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 959109,
+          "name": "/steam/76561198826803794",
+          "alias": "_SSx_PlaYBoY",
+          "personal_statgroup_id": 809965,
+          "xp": 4692,
+          "level": 2,
+          "leaderboardregion_id": 4,
+          "country": "br"
+        }
+      ]
+    },
+    {
+      "id": 38986,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 238641,
+          "name": "/steam/76561198273510809",
+          "alias": "[bK] AnTiDeMoN",
+          "personal_statgroup_id": 38986,
+          "xp": 4750,
+          "level": 2,
+          "leaderboardregion_id": 4,
+          "country": "br"
+        }
+      ]
+    },
+    {
+      "id": 11167910,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 19867271,
+          "name": "/steam/76561199258371252",
+          "alias": "SOL/USDT",
+          "personal_statgroup_id": 11167910,
+          "xp": 495,
+          "level": 1,
+          "leaderboardregion_id": 0,
+          "country": "fr"
+        }
+      ]
+    },
+    {
+      "id": 3523607,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 4221810,
+          "name": "/steam/76561199111177779",
+          "alias": "Imfury_",
+          "personal_statgroup_id": 3523607,
+          "xp": 2875,
+          "level": 2,
+          "leaderboardregion_id": 3,
+          "country": "mx"
+        }
+      ]
+    },
+    {
+      "id": 2689411,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 2972505,
+          "name": "/steam/76561199003998451",
+          "alias": "旋律",
+          "personal_statgroup_id": 2689411,
+          "xp": 3068,
+          "level": 2,
+          "leaderboardregion_id": 2,
+          "country": "cn"
+        }
+      ]
+    },
+    {
+      "id": 3275552,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 3747802,
+          "name": "/steam/76561198364623849",
+          "alias": "SalzZ_wide",
+          "personal_statgroup_id": 3275552,
+          "xp": 5402,
+          "level": 2,
+          "leaderboardregion_id": 0,
+          "country": "ru"
+        }
+      ]
+    },
+    {
+      "id": 68325,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 261794,
+          "name": "/steam/76561198107549675",
+          "alias": "[o.p.]Rage_Boy",
+          "personal_statgroup_id": 68325,
+          "xp": 4061,
+          "level": 2,
+          "leaderboardregion_id": 0,
+          "country": "de"
+        }
+      ]
+    },
+    {
+      "id": 1057863,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 1254139,
+          "name": "/steam/76561197992196693",
+          "alias": "Prydz",
+          "personal_statgroup_id": 1057863,
+          "xp": 4352,
+          "level": 2,
+          "leaderboardregion_id": 2,
+          "country": "tw"
+        }
+      ]
+    },
+    {
+      "id": 3820085,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 4670972,
+          "name": "/steam/76561199125134099",
+          "alias": "Kahta",
+          "personal_statgroup_id": 3820085,
+          "xp": 1649,
+          "level": 1,
+          "leaderboardregion_id": 2,
+          "country": "tr"
+        }
+      ]
+    },
+    {
+      "id": 10467068,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 18149543,
+          "name": "/steam/76561199243597703",
+          "alias": "Snow",
+          "personal_statgroup_id": 10467068,
+          "xp": 1482,
+          "level": 1,
+          "leaderboardregion_id": 4,
+          "country": "cl"
+        }
+      ]
+    },
+    {
+      "id": 2840491,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 3135672,
+          "name": "/steam/76561198058763144",
+          "alias": "ITA | Zuccolo",
+          "personal_statgroup_id": 2840491,
+          "xp": 3998,
+          "level": 2,
+          "leaderboardregion_id": 0,
+          "country": "it"
+        }
+      ]
+    },
+    {
+      "id": 1942,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 208915,
+          "name": "/steam/76561198250062306",
+          "alias": "=RT=Maxwell",
+          "personal_statgroup_id": 1942,
+          "xp": 5627,
+          "level": 3,
+          "leaderboardregion_id": 2,
+          "country": "cn"
+        }
+      ]
+    },
+    {
+      "id": 471804,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 614315,
+          "name": "/steam/76561198135964589",
+          "alias": "slam",
+          "personal_statgroup_id": 471804,
+          "xp": 7215,
+          "level": 3,
+          "leaderboardregion_id": 3,
+          "country": "ca"
+        }
+      ]
+    },
+    {
+      "id": 803514,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 952733,
+          "name": "/steam/76561198181602645",
+          "alias": "tulendeena",
+          "personal_statgroup_id": 803514,
+          "xp": 4728,
+          "level": 2,
+          "leaderboardregion_id": 5,
+          "country": "au"
+        }
+      ]
+    },
+    {
+      "id": 6835,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 212721,
+          "name": "/steam/76561198116921964",
+          "alias": "mYi.Sitaux",
+          "personal_statgroup_id": 6835,
+          "xp": 10620,
+          "level": 4,
+          "leaderboardregion_id": 0,
+          "country": "fr"
+        }
+      ]
+    },
+    {
+      "id": 6522724,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 11924411,
+          "name": "/steam/76561199412599747",
+          "alias": "Mangudai",
+          "personal_statgroup_id": 6522724,
+          "xp": 808,
+          "level": 1,
+          "leaderboardregion_id": 2,
+          "country": "tr"
+        }
+      ]
+    },
+    {
+      "id": 202509,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 372422,
+          "name": "/steam/76561198102842432",
+          "alias": "kw",
+          "personal_statgroup_id": 202509,
+          "xp": 6455,
+          "level": 3,
+          "leaderboardregion_id": 2,
+          "country": "tw"
+        }
+      ]
+    },
+    {
+      "id": 1390583,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 1609124,
+          "name": "/steam/76561198154951203",
+          "alias": "费拉基米尔侯爵",
+          "personal_statgroup_id": 1390583,
+          "xp": 2987,
+          "level": 2,
+          "leaderboardregion_id": 2,
+          "country": "cn"
+        }
+      ]
+    },
+    {
+      "id": 215265,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 383445,
+          "name": "/steam/76561198159192594",
+          "alias": "Dfx2, l'Immondice",
+          "personal_statgroup_id": 215265,
+          "xp": 4254,
+          "level": 2,
+          "leaderboardregion_id": 0,
+          "country": "fr"
+        }
+      ]
+    },
+    {
+      "id": 4139110,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 5151558,
+          "name": "/steam/76561198881184844",
+          "alias": "Eärnur",
+          "personal_statgroup_id": 4139110,
+          "xp": 2648,
+          "level": 2,
+          "leaderboardregion_id": 4,
+          "country": "ec"
+        }
+      ]
+    },
+    {
+      "id": 1054349,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 1249720,
+          "name": "/steam/76561198906078886",
+          "alias": "Barbeitus",
+          "personal_statgroup_id": 1054349,
+          "xp": 2929,
+          "level": 2,
+          "leaderboardregion_id": 3,
+          "country": "mx"
+        }
+      ]
+    },
+    {
+      "id": 2250,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 209118,
+          "name": "/steam/76561198379366846",
+          "alias": "TAG_Sora Kuma",
+          "personal_statgroup_id": 2250,
+          "xp": 4089,
+          "level": 2,
+          "leaderboardregion_id": 2,
+          "country": "tw"
+        }
+      ]
+    },
+    {
+      "id": 590189,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 726223,
+          "name": "/steam/76561198258097856",
+          "alias": "TAG_Z40",
+          "personal_statgroup_id": 590189,
+          "xp": 5377,
+          "level": 2,
+          "leaderboardregion_id": 2,
+          "country": "tw"
+        }
+      ]
+    },
+    {
+      "id": 3126507,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 3444509,
+          "name": "/steam/76561198271940855",
+          "alias": "Mununez",
+          "personal_statgroup_id": 3126507,
+          "xp": 7415,
+          "level": 3,
+          "leaderboardregion_id": 3,
+          "country": "us"
+        }
+      ]
+    },
+    {
+      "id": 1609698,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 1835774,
+          "name": "/steam/76561198199509990",
+          "alias": "DOOMSTER :D",
+          "personal_statgroup_id": 1609698,
+          "xp": 7434,
+          "level": 3,
+          "leaderboardregion_id": 2,
+          "country": "in"
+        }
+      ]
+    },
+    {
+      "id": 429837,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 575279,
+          "name": "/steam/76561198880457597",
+          "alias": "亲爱的瓜瓜",
+          "personal_statgroup_id": 429837,
+          "xp": 7261,
+          "level": 3,
+          "leaderboardregion_id": 2,
+          "country": "cn"
+        }
+      ]
+    },
+    {
+      "id": 580013,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 716717,
+          "name": "/steam/76561198367310298",
+          "alias": "King-002",
+          "personal_statgroup_id": 580013,
+          "xp": 6939,
+          "level": 3,
+          "leaderboardregion_id": 2,
+          "country": "cn"
+        }
+      ]
+    },
+    {
+      "id": 1799303,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 169192,
+          "name": "/steam/76561198278261033",
+          "alias": "Shepex",
+          "personal_statgroup_id": 1799303,
+          "xp": 3097,
+          "level": 2,
+          "leaderboardregion_id": 4,
+          "country": "ar"
+        }
+      ]
+    },
+    {
+      "id": 4639385,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 5921178,
+          "name": "/steam/76561198420133451",
+          "alias": "Mago_zZ",
+          "personal_statgroup_id": 4639385,
+          "xp": 2282,
+          "level": 2,
+          "leaderboardregion_id": 4,
+          "country": "ar"
+        }
+      ]
+    },
+    {
+      "id": 715743,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 862991,
+          "name": "/steam/76561197982917945",
+          "alias": "Emil :D",
+          "personal_statgroup_id": 715743,
+          "xp": 7432,
+          "level": 3,
+          "leaderboardregion_id": 0,
+          "country": "dk"
+        }
+      ]
+    },
+    {
+      "id": 5616966,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 9690948,
+          "name": "/steam/76561199041561150",
+          "alias": "可爱侵略",
+          "personal_statgroup_id": 5616966,
+          "xp": 2206,
+          "level": 2,
+          "leaderboardregion_id": 2,
+          "country": "cn"
+        }
+      ]
+    },
+    {
+      "id": 302608,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 460064,
+          "name": "/steam/76561198185474877",
+          "alias": "Jorge",
+          "personal_statgroup_id": 302608,
+          "xp": 2423,
+          "level": 2,
+          "leaderboardregion_id": 4,
+          "country": "br"
+        }
+      ]
+    },
+    {
+      "id": 426341,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 572017,
+          "name": "/steam/76561198426853065",
+          "alias": "TheMax",
+          "personal_statgroup_id": 426341,
+          "xp": 6025,
+          "level": 3,
+          "leaderboardregion_id": 0,
+          "country": "fi"
+        }
+      ]
+    },
+    {
+      "id": 10918506,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 19245516,
+          "name": "/steam/76561199655590379",
+          "alias": "Metehan",
+          "personal_statgroup_id": 10918506,
+          "xp": 218,
+          "level": 1,
+          "leaderboardregion_id": 2,
+          "country": "tr"
+        }
+      ]
+    },
+    {
+      "id": 5813990,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 10136839,
+          "name": "/steam/76561199182836817",
+          "alias": "aazz",
+          "personal_statgroup_id": 5813990,
+          "xp": 931,
+          "level": 1,
+          "leaderboardregion_id": 2,
+          "country": "tw"
+        }
+      ]
+    },
+    {
+      "id": 609883,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 746777,
+          "name": "/steam/76561198401970946",
+          "alias": "nanimaren",
+          "personal_statgroup_id": 609883,
+          "xp": 3874,
+          "level": 2,
+          "leaderboardregion_id": 0,
+          "country": "de"
+        }
+      ]
+    },
+    {
+      "id": 10906643,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 19219486,
+          "name": "/steam/76561199649492243",
+          "alias": "TeMo",
+          "personal_statgroup_id": 10906643,
+          "xp": 915,
+          "level": 1,
+          "leaderboardregion_id": 6,
+          "country": "ma"
+        }
+      ]
+    },
+    {
+      "id": 81668,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 125632,
+          "name": "/steam/76561198155225159",
+          "alias": "D•F•S | Smokealot",
+          "personal_statgroup_id": 81668,
+          "xp": 4374,
+          "level": 2,
+          "leaderboardregion_id": 0,
+          "country": "de"
+        }
+      ]
+    },
+    {
+      "id": 4052354,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 5017153,
+          "name": "/steam/76561199138640043",
+          "alias": "Nervkeks",
+          "personal_statgroup_id": 4052354,
+          "xp": 3566,
+          "level": 2,
+          "leaderboardregion_id": 0,
+          "country": "de"
+        }
+      ]
+    },
+    {
+      "id": 2105163,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 2361017,
+          "name": "/steam/76561198001997423",
+          "alias": "Fanjita",
+          "personal_statgroup_id": 2105163,
+          "xp": 3278,
+          "level": 2,
+          "leaderboardregion_id": 0,
+          "country": "gb"
+        }
+      ]
+    },
+    {
+      "id": 1211943,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 1423284,
+          "name": "/steam/76561198804101729",
+          "alias": "Alf Shumway",
+          "personal_statgroup_id": 1211943,
+          "xp": 3835,
+          "level": 2,
+          "leaderboardregion_id": 0,
+          "country": "de"
+        }
+      ]
+    },
+    {
+      "id": 100487,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 287356,
+          "name": "/steam/76561198093481143",
+          "alias": "Brunker 2.0",
+          "personal_statgroup_id": 100487,
+          "xp": 1652,
+          "level": 1,
+          "leaderboardregion_id": 3,
+          "country": "ca"
+        }
+      ]
+    },
+    {
+      "id": 1306693,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 1522048,
+          "name": "/steam/76561199020986039",
+          "alias": "[KGB] Logan",
+          "personal_statgroup_id": 1306693,
+          "xp": 2691,
+          "level": 2,
+          "leaderboardregion_id": 4,
+          "country": "br"
+        }
+      ]
+    },
+    {
+      "id": 1472112,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 1693166,
+          "name": "/steam/76561198090399922",
+          "alias": "VN_KoNFeR",
+          "personal_statgroup_id": 1472112,
+          "xp": 2330,
+          "level": 2,
+          "leaderboardregion_id": 0,
+          "country": "es"
+        }
+      ]
+    },
+    {
+      "id": 1665022,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 1893397,
+          "name": "/steam/76561198263360370",
+          "alias": "GoKu",
+          "personal_statgroup_id": 1665022,
+          "xp": 2786,
+          "level": 2,
+          "leaderboardregion_id": 4,
+          "country": "br"
+        }
+      ]
+    },
+    {
+      "id": 41554,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 96571,
+          "name": "/steam/76561197983730772",
+          "alias": "c3mbrich",
+          "personal_statgroup_id": 41554,
+          "xp": 7111,
+          "level": 3,
+          "leaderboardregion_id": 0,
+          "country": "es"
+        }
+      ]
+    },
+    {
+      "id": 132214,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 312774,
+          "name": "/steam/76561198452342146",
+          "alias": "KH_Keno",
+          "personal_statgroup_id": 132214,
+          "xp": 2376,
+          "level": 2,
+          "leaderboardregion_id": 3,
+          "country": "mx"
+        }
+      ]
+    },
+    {
+      "id": 3077629,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 3392033,
+          "name": "/steam/76561198342628047",
+          "alias": "Ubetnir",
+          "personal_statgroup_id": 3077629,
+          "xp": 3059,
+          "level": 2,
+          "leaderboardregion_id": 2,
+          "country": "tr"
+        }
+      ]
+    },
+    {
+      "id": 2808337,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 3101322,
+          "name": "/steam/76561198151895411",
+          "alias": "HR Whitecourt",
+          "personal_statgroup_id": 2808337,
+          "xp": 3416,
+          "level": 2,
+          "leaderboardregion_id": 4,
+          "country": "cl"
+        }
+      ]
+    },
+    {
+      "id": 1526966,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 1749894,
+          "name": "/steam/76561198054734113",
+          "alias": "DS_Nacho_10",
+          "personal_statgroup_id": 1526966,
+          "xp": 4783,
+          "level": 2,
+          "leaderboardregion_id": 4,
+          "country": "ar"
+        }
+      ]
+    },
+    {
+      "id": 48181,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 245811,
+          "name": "/steam/76561198027802048",
+          "alias": "Target331",
+          "personal_statgroup_id": 48181,
+          "xp": 6723,
+          "level": 3,
+          "leaderboardregion_id": 0,
+          "country": "de"
+        }
+      ]
+    },
+    {
+      "id": 9008728,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 14818947,
+          "name": "/steam/76561199497396573",
+          "alias": "DK2",
+          "personal_statgroup_id": 9008728,
+          "xp": 2129,
+          "level": 2,
+          "leaderboardregion_id": 2,
+          "country": "in"
+        }
+      ]
+    },
+    {
+      "id": 28696,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 230475,
+          "name": "/steam/76561198068729026",
+          "alias": "El_Matador",
+          "personal_statgroup_id": 28696,
+          "xp": 8358,
+          "level": 3,
+          "leaderboardregion_id": 0,
+          "country": "de"
+        }
+      ]
+    },
+    {
+      "id": 1569455,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 1794015,
+          "name": "/steam/76561198044697647",
+          "alias": "AOKI_Gryphon",
+          "personal_statgroup_id": 1569455,
+          "xp": 2857,
+          "level": 2,
+          "leaderboardregion_id": 0,
+          "country": "fr"
+        }
+      ]
+    },
+    {
+      "id": 5233458,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 8448734,
+          "name": "/steam/76561197991643557",
+          "alias": "_TheFury_",
+          "personal_statgroup_id": 5233458,
+          "xp": 2353,
+          "level": 2,
+          "leaderboardregion_id": 3,
+          "country": "mx"
+        }
+      ]
+    },
+    {
+      "id": 2694907,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 2978568,
+          "name": "/steam/76561199071200079",
+          "alias": "HasmanII",
+          "personal_statgroup_id": 2694907,
+          "xp": 524,
+          "level": 1,
+          "leaderboardregion_id": 0,
+          "country": "at"
+        }
+      ]
+    },
+    {
+      "id": 668956,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 811511,
+          "name": "/steam/76561198296750721",
+          "alias": "Kanon",
+          "personal_statgroup_id": 668956,
+          "xp": 3207,
+          "level": 2,
+          "leaderboardregion_id": 2,
+          "country": "cn"
+        }
+      ]
+    },
+    {
+      "id": 2554058,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 2826785,
+          "name": "/steam/76561198364224429",
+          "alias": "XEVER | Nahue05",
+          "personal_statgroup_id": 2554058,
+          "xp": 6042,
+          "level": 3,
+          "leaderboardregion_id": 4,
+          "country": "ar"
+        }
+      ]
+    },
+    {
+      "id": 2467409,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 2736083,
+          "name": "/steam/76561197995544347",
+          "alias": "Kimbo",
+          "personal_statgroup_id": 2467409,
+          "xp": 2116,
+          "level": 2,
+          "leaderboardregion_id": 0,
+          "country": "fr"
+        }
+      ]
+    },
+    {
+      "id": 1737,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 208757,
+          "name": "/steam/76561198180958101",
+          "alias": "HeavenlyChorus",
+          "personal_statgroup_id": 1737,
+          "xp": 1456,
+          "level": 1,
+          "leaderboardregion_id": 2,
+          "country": "cn"
+        }
+      ]
+    },
+    {
+      "id": 3335850,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 3921962,
+          "name": "/steam/76561198165793048",
+          "alias": "SHell | FayLayt",
+          "personal_statgroup_id": 3335850,
+          "xp": 2643,
+          "level": 2,
+          "leaderboardregion_id": 0,
+          "country": "ru"
+        }
+      ]
+    },
+    {
+      "id": 6427319,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 11717976,
+          "name": "/steam/76561198348854625",
+          "alias": "SS_Biel",
+          "personal_statgroup_id": 6427319,
+          "xp": 2048,
+          "level": 2,
+          "leaderboardregion_id": 4,
+          "country": "br"
+        }
+      ]
+    },
+    {
+      "id": 2360282,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 2624643,
+          "name": "/steam/76561199056911105",
+          "alias": "HqSu",
+          "personal_statgroup_id": 2360282,
+          "xp": 3162,
+          "level": 2,
+          "leaderboardregion_id": 0,
+          "country": "fr"
+        }
+      ]
+    },
+    {
+      "id": 1644431,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 1872067,
+          "name": "/steam/76561198453372896",
+          "alias": "Maes_zZ",
+          "personal_statgroup_id": 1644431,
+          "xp": 1936,
+          "level": 1,
+          "leaderboardregion_id": 4,
+          "country": "ar"
+        }
+      ]
+    },
+    {
+      "id": 11001798,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 19455781,
+          "name": "/steam/76561199670985607",
+          "alias": "_LY_抖音阿痛",
+          "personal_statgroup_id": 11001798,
+          "xp": 775,
+          "level": 1,
+          "leaderboardregion_id": 2,
+          "country": "in"
+        }
+      ]
+    },
+    {
+      "id": 616952,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 754845,
+          "name": "/steam/76561198143899469",
+          "alias": "A0",
+          "personal_statgroup_id": 616952,
+          "xp": 3589,
+          "level": 2,
+          "leaderboardregion_id": 4,
+          "country": "ar"
+        }
+      ]
+    },
+    {
+      "id": 1598206,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 1823907,
+          "name": "/steam/76561198958498569",
+          "alias": "ELEOS | Xarkey",
+          "personal_statgroup_id": 1598206,
+          "xp": 2100,
+          "level": 2,
+          "leaderboardregion_id": 0,
+          "country": "pl"
+        }
+      ]
+    },
+    {
+      "id": 2787680,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 3079181,
+          "name": "/steam/76561199047042872",
+          "alias": "HELLRAZER",
+          "personal_statgroup_id": 2787680,
+          "xp": 3836,
+          "level": 2,
+          "leaderboardregion_id": 2,
+          "country": "in"
+        }
+      ]
+    },
+    {
+      "id": 1875770,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 2111224,
+          "name": "/steam/76561198825643399",
+          "alias": "HR Felipe",
+          "personal_statgroup_id": 1875770,
+          "xp": 1818,
+          "level": 1,
+          "leaderboardregion_id": 4,
+          "country": "cl"
+        }
+      ]
+    },
+    {
+      "id": 1827301,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 2061131,
+          "name": "/steam/76561198306664263",
+          "alias": "HR Pinkman",
+          "personal_statgroup_id": 1827301,
+          "xp": 2661,
+          "level": 2,
+          "leaderboardregion_id": 4,
+          "country": "cl"
+        }
+      ]
+    },
+    {
+      "id": 3928,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 210382,
+          "name": "/steam/76561198088860961",
+          "alias": "mratin",
+          "personal_statgroup_id": 3928,
+          "xp": 3637,
+          "level": 2,
+          "leaderboardregion_id": 0,
+          "country": "se"
+        }
+      ]
+    },
+    {
+      "id": 6098705,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 10785892,
+          "name": "/steam/76561198815324189",
+          "alias": "KissBB_",
+          "personal_statgroup_id": 6098705,
+          "xp": 1301,
+          "level": 1,
+          "leaderboardregion_id": 6,
+          "country": "ma"
+        }
+      ]
+    },
+    {
+      "id": 11247428,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 20070433,
+          "name": "/steam/76561199709992086",
+          "alias": "Agit",
+          "personal_statgroup_id": 11247428,
+          "xp": 41,
+          "level": 1,
+          "leaderboardregion_id": 2,
+          "country": "tr"
+        }
+      ]
+    },
+    {
+      "id": 18788,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 222528,
+          "name": "/steam/76561198034782642",
+          "alias": "repard",
+          "personal_statgroup_id": 18788,
+          "xp": 3537,
+          "level": 2,
+          "leaderboardregion_id": 0,
+          "country": "ru"
+        }
+      ]
+    },
+    {
+      "id": 731189,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 880057,
+          "name": "/steam/76561198274144074",
+          "alias": "XEVER | Eskabe",
+          "personal_statgroup_id": 731189,
+          "xp": 4359,
+          "level": 2,
+          "leaderboardregion_id": 4,
+          "country": "ar"
+        }
+      ]
+    },
+    {
+      "id": 2750121,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 3038783,
+          "name": "/steam/76561199072716653",
+          "alias": "FalconElPardal",
+          "personal_statgroup_id": 2750121,
+          "xp": 987,
+          "level": 1,
+          "leaderboardregion_id": 4,
+          "country": "br"
+        }
+      ]
+    },
+    {
+      "id": 2571090,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 2844691,
+          "name": "/steam/76561199066277433",
+          "alias": "Lean_zZ",
+          "personal_statgroup_id": 2571090,
+          "xp": 6588,
+          "level": 3,
+          "leaderboardregion_id": 4,
+          "country": "ar"
+        }
+      ]
+    },
+    {
+      "id": 198713,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 369122,
+          "name": "/steam/76561198103474760",
+          "alias": "Juyhou",
+          "personal_statgroup_id": 198713,
+          "xp": 2813,
+          "level": 2,
+          "leaderboardregion_id": 0,
+          "country": "fi"
+        }
+      ]
+    },
+    {
+      "id": 357311,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 182749,
+          "name": "/steam/76561198131139989",
+          "alias": "The_Dragonstar",
+          "personal_statgroup_id": 357311,
+          "xp": 9253,
+          "level": 3,
+          "leaderboardregion_id": 2,
+          "country": "in"
+        }
+      ]
+    },
+    {
+      "id": 102212,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 288714,
+          "name": "/steam/76561198282860959",
+          "alias": "Fox.Mihai06",
+          "personal_statgroup_id": 102212,
+          "xp": 8274,
+          "level": 3,
+          "leaderboardregion_id": 0,
+          "country": "ro"
+        }
+      ]
+    },
+    {
+      "id": 1922977,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 2161095,
+          "name": "/steam/76561198348821738",
+          "alias": "develement",
+          "personal_statgroup_id": 1922977,
+          "xp": 4466,
+          "level": 2,
+          "leaderboardregion_id": 3,
+          "country": "us"
+        }
+      ]
+    },
+    {
+      "id": 1885665,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 2121463,
+          "name": "/steam/76561198145126688",
+          "alias": "silverstar",
+          "personal_statgroup_id": 1885665,
+          "xp": 6104,
+          "level": 3,
+          "leaderboardregion_id": 3,
+          "country": "ca"
+        }
+      ]
+    },
+    {
+      "id": 546619,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 684756,
+          "name": "/steam/76561198139823238",
+          "alias": "Y.b",
+          "personal_statgroup_id": 546619,
+          "xp": 3690,
+          "level": 2,
+          "leaderboardregion_id": 2,
+          "country": "cn"
+        }
+      ]
+    },
+    {
+      "id": 5576007,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 9579739,
+          "name": "/steam/76561199243543910",
+          "alias": "mentalist_",
+          "personal_statgroup_id": 5576007,
+          "xp": 2309,
+          "level": 2,
+          "leaderboardregion_id": 3,
+          "country": "ca"
+        }
+      ]
+    },
+    {
+      "id": 3620887,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 4365904,
+          "name": "/steam/76561199079222787",
+          "alias": "学习卧龙先生",
+          "personal_statgroup_id": 3620887,
+          "xp": 4087,
+          "level": 2,
+          "leaderboardregion_id": 2,
+          "country": "cn"
+        }
+      ]
+    },
+    {
+      "id": 1811185,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 2044492,
+          "name": "/steam/76561199038969190",
+          "alias": "Soldadito de Plomo",
+          "personal_statgroup_id": 1811185,
+          "xp": 8173,
+          "level": 3,
+          "leaderboardregion_id": 3,
+          "country": "mx"
+        }
+      ]
+    },
+    {
+      "id": 1051265,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 1245978,
+          "name": "/steam/76561199014666609",
+          "alias": "ArabeiroSS",
+          "personal_statgroup_id": 1051265,
+          "xp": 1695,
+          "level": 1,
+          "leaderboardregion_id": 4,
+          "country": "br"
+        }
+      ]
+    },
+    {
+      "id": 9013166,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 14824482,
+          "name": "/steam/76561199497481600",
+          "alias": "PulpoCocinero",
+          "personal_statgroup_id": 9013166,
+          "xp": 1406,
+          "level": 1,
+          "leaderboardregion_id": 4,
+          "country": "uy"
+        }
+      ]
+    },
+    {
+      "id": 4771033,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 6131444,
+          "name": "/steam/76561199190035847",
+          "alias": "BeefBro",
+          "personal_statgroup_id": 4771033,
+          "xp": 1150,
+          "level": 1,
+          "leaderboardregion_id": 3,
+          "country": "us"
+        }
+      ]
+    },
+    {
+      "id": 6172291,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 1554380,
+          "name": "/steam/76561198180402989",
+          "alias": "Pume",
+          "personal_statgroup_id": 6172291,
+          "xp": 2579,
+          "level": 2,
+          "leaderboardregion_id": 0,
+          "country": "es"
+        }
+      ]
+    },
+    {
+      "id": 1048099,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 1242064,
+          "name": "/steam/76561198158991725",
+          "alias": "Mango",
+          "personal_statgroup_id": 1048099,
+          "xp": 2885,
+          "level": 2,
+          "leaderboardregion_id": 0,
+          "country": "de"
+        }
+      ]
+    },
+    {
+      "id": 438937,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 583716,
+          "name": "/steam/76561198131397526",
+          "alias": "URU | ALBO",
+          "personal_statgroup_id": 438937,
+          "xp": 3957,
+          "level": 2,
+          "leaderboardregion_id": 3,
+          "country": "do"
+        }
+      ]
+    },
+    {
+      "id": 7352637,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 12952693,
+          "name": "/steam/76561199475006461",
+          "alias": "DS_Biry Final Form",
+          "personal_statgroup_id": 7352637,
+          "xp": 630,
+          "level": 1,
+          "leaderboardregion_id": 4,
+          "country": "ar"
+        }
+      ]
+    },
+    {
+      "id": 3128668,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 3446882,
+          "name": "/steam/76561199091668803",
+          "alias": "Dr.Kozmonot",
+          "personal_statgroup_id": 3128668,
+          "xp": 8097,
+          "level": 3,
+          "leaderboardregion_id": 2,
+          "country": "tr"
+        }
+      ]
+    },
+    {
+      "id": 1398367,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 1617161,
+          "name": "/steam/76561198830437830",
+          "alias": "Youpudding",
+          "personal_statgroup_id": 1398367,
+          "xp": 1744,
+          "level": 1,
+          "leaderboardregion_id": 2,
+          "country": "tw"
+        }
+      ]
+    },
+    {
+      "id": 397465,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 545342,
+          "name": "/steam/76561198437726495",
+          "alias": "jcdanzig",
+          "personal_statgroup_id": 397465,
+          "xp": 647,
+          "level": 1,
+          "leaderboardregion_id": 4,
+          "country": "cl"
+        }
+      ]
+    },
+    {
+      "id": 5506688,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 9423131,
+          "name": "/steam/76561198259300707",
+          "alias": "Lucho_zZ",
+          "personal_statgroup_id": 5506688,
+          "xp": 5604,
+          "level": 3,
+          "leaderboardregion_id": 4,
+          "country": "ar"
+        }
+      ]
+    },
+    {
+      "id": 297458,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 455498,
+          "name": "/steam/76561198007967478",
+          "alias": "Yuki",
+          "personal_statgroup_id": 297458,
+          "xp": 2814,
+          "level": 2,
+          "leaderboardregion_id": 0,
+          "country": "de"
+        }
+      ]
+    },
+    {
+      "id": 2032158,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 2285294,
+          "name": "/steam/76561198067629074",
+          "alias": "Calais",
+          "personal_statgroup_id": 2032158,
+          "xp": 5248,
+          "level": 2,
+          "leaderboardregion_id": 3,
+          "country": "us"
+        }
+      ]
+    },
+    {
+      "id": 2549293,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 2821779,
+          "name": "/steam/76561199065337729",
+          "alias": "DS_Pela",
+          "personal_statgroup_id": 2549293,
+          "xp": 5518,
+          "level": 3,
+          "leaderboardregion_id": 4,
+          "country": "ar"
+        }
+      ]
+    },
+    {
+      "id": 545001,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 683220,
+          "name": "/steam/76561198060519295",
+          "alias": "Runi 小石头",
+          "personal_statgroup_id": 545001,
+          "xp": 3455,
+          "level": 2,
+          "leaderboardregion_id": 2,
+          "country": "vn"
+        }
+      ]
+    },
+    {
+      "id": 163946,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 339191,
+          "name": "/steam/76561198145983577",
+          "alias": "TheAntman",
+          "personal_statgroup_id": 163946,
+          "xp": 3274,
+          "level": 2,
+          "leaderboardregion_id": 0,
+          "country": "fi"
+        }
+      ]
+    },
+    {
+      "id": 15474,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 219823,
+          "name": "/steam/76561198196223205",
+          "alias": "SleepySwede",
+          "personal_statgroup_id": 15474,
+          "xp": 4250,
+          "level": 2,
+          "leaderboardregion_id": 0,
+          "country": "se"
+        }
+      ]
+    },
+    {
+      "id": 5909850,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 10368103,
+          "name": "/steam/76561199309850782",
+          "alias": "yirmi",
+          "personal_statgroup_id": 5909850,
+          "xp": 1241,
+          "level": 1,
+          "leaderboardregion_id": 2,
+          "country": "cn"
+        }
+      ]
+    },
+    {
+      "id": 6281427,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 11424815,
+          "name": "/steam/76561199410043904",
+          "alias": "Dracula",
+          "personal_statgroup_id": 6281427,
+          "xp": 1509,
+          "level": 1,
+          "leaderboardregion_id": 2,
+          "country": "tr"
+        }
+      ]
+    },
+    {
+      "id": 10105190,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 17138308,
+          "name": "/steam/76561199556119939",
+          "alias": "40iqplayer",
+          "personal_statgroup_id": 10105190,
+          "xp": 201,
+          "level": 1,
+          "leaderboardregion_id": 2,
+          "country": "tr"
+        }
+      ]
+    },
+    {
+      "id": 3324221,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 3897067,
+          "name": "/steam/76561199042251704",
+          "alias": "Uykusuz_(Maverick)Taha",
+          "personal_statgroup_id": 3324221,
+          "xp": 6602,
+          "level": 3,
+          "leaderboardregion_id": 2,
+          "country": "tr"
+        }
+      ]
+    },
+    {
+      "id": 9872969,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 16263808,
+          "name": "/steam/76561199538978149",
+          "alias": "Raphaell",
+          "personal_statgroup_id": 9872969,
+          "xp": 228,
+          "level": 1,
+          "leaderboardregion_id": 4,
+          "country": "pe"
+        }
+      ]
+    },
+    {
+      "id": 1855428,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 2090225,
+          "name": "/steam/76561198242526658",
+          "alias": "miguel",
+          "personal_statgroup_id": 1855428,
+          "xp": 4145,
+          "level": 2,
+          "leaderboardregion_id": 4,
+          "country": "br"
+        }
+      ]
+    },
+    {
+      "id": 2877666,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 3176045,
+          "name": "/steam/76561199054087176",
+          "alias": "XEVER | Prismuki09",
+          "personal_statgroup_id": 2877666,
+          "xp": 6158,
+          "level": 3,
+          "leaderboardregion_id": 4,
+          "country": "ar"
+        }
+      ]
+    },
+    {
+      "id": 4875261,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 6301465,
+          "name": "/steam/76561199199298181",
+          "alias": "HR Felipesick",
+          "personal_statgroup_id": 4875261,
+          "xp": 1056,
+          "level": 1,
+          "leaderboardregion_id": 4,
+          "country": "cl"
+        }
+      ]
+    },
+    {
+      "id": 3226663,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 3552908,
+          "name": "/steam/76561198814360125",
+          "alias": "VENON | OIGRES",
+          "personal_statgroup_id": 3226663,
+          "xp": 5373,
+          "level": 2,
+          "leaderboardregion_id": 3,
+          "country": "mx"
+        }
+      ]
+    },
+    {
+      "id": 2334747,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 2598146,
+          "name": "/steam/76561199055906163",
+          "alias": "Kutta",
+          "personal_statgroup_id": 2334747,
+          "xp": 2825,
+          "level": 2,
+          "leaderboardregion_id": 3,
+          "country": "mx"
+        }
+      ]
+    },
+    {
+      "id": 179840,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 352685,
+          "name": "/steam/76561198128978758",
+          "alias": "Alzza0112",
+          "personal_statgroup_id": 179840,
+          "xp": 1906,
+          "level": 1,
+          "leaderboardregion_id": 2,
+          "country": "kr"
+        }
+      ]
+    },
+    {
+      "id": 2765142,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 3055068,
+          "name": "/steam/76561198850477336",
+          "alias": "Veggie Koala",
+          "personal_statgroup_id": 2765142,
+          "xp": 3149,
+          "level": 2,
+          "leaderboardregion_id": 4,
+          "country": "ar"
+        }
+      ]
+    },
+    {
+      "id": 35292,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 77944,
+          "name": "/steam/76561198057191173",
+          "alias": "_Tomate",
+          "personal_statgroup_id": 35292,
+          "xp": 5281,
+          "level": 2,
+          "leaderboardregion_id": 0,
+          "country": "es"
+        }
+      ]
+    },
+    {
+      "id": 6259316,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 11373868,
+          "name": "/steam/76561199404788126",
+          "alias": "[LW] Elite Tranissary",
+          "personal_statgroup_id": 6259316,
+          "xp": 812,
+          "level": 1,
+          "leaderboardregion_id": 3,
+          "country": "ca"
+        }
+      ]
+    },
+    {
+      "id": 76121,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 268051,
+          "name": "/steam/76561198053312969",
+          "alias": "Eli",
+          "personal_statgroup_id": 76121,
+          "xp": 4777,
+          "level": 2,
+          "leaderboardregion_id": 3,
+          "country": "us"
+        }
+      ]
+    },
+    {
+      "id": 11055665,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 19586160,
+          "name": "/steam/76561199680061951",
+          "alias": "sistema frontal",
+          "personal_statgroup_id": 11055665,
+          "xp": 87,
+          "level": 1,
+          "leaderboardregion_id": 4,
+          "country": "cl"
+        }
+      ]
+    },
+    {
+      "id": 2928046,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 3230529,
+          "name": "/steam/76561198098401046",
+          "alias": "Sarin_",
+          "personal_statgroup_id": 2928046,
+          "xp": 1642,
+          "level": 1,
+          "leaderboardregion_id": 3,
+          "country": "ca"
+        }
+      ]
+    },
+    {
+      "id": 5317261,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 8795483,
+          "name": "/steam/76561199227305436",
+          "alias": "RudelyGreat",
+          "personal_statgroup_id": 5317261,
+          "xp": 1505,
+          "level": 1,
+          "leaderboardregion_id": 0,
+          "country": "se"
+        }
+      ]
+    },
+    {
+      "id": 2786845,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 3078289,
+          "name": "/steam/76561199074071388",
+          "alias": "_Marcelo_",
+          "personal_statgroup_id": 2786845,
+          "xp": 2102,
+          "level": 2,
+          "leaderboardregion_id": 2,
+          "country": "vn"
+        }
+      ]
+    },
+    {
+      "id": 574778,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 711645,
+          "name": "/steam/76561198277990938",
+          "alias": "Monica Bellucci",
+          "personal_statgroup_id": 574778,
+          "xp": 1950,
+          "level": 1,
+          "leaderboardregion_id": 4,
+          "country": "ar"
+        }
+      ]
+    },
+    {
+      "id": 476502,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 618731,
+          "name": "/steam/76561198435384120",
+          "alias": "DS_Carbo__",
+          "personal_statgroup_id": 476502,
+          "xp": 4509,
+          "level": 2,
+          "leaderboardregion_id": 4,
+          "country": "ar"
+        }
+      ]
+    },
+    {
+      "id": 439017,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 583791,
+          "name": "/steam/76561198370366713",
+          "alias": "HeisenN",
+          "personal_statgroup_id": 439017,
+          "xp": 3449,
+          "level": 2,
+          "leaderboardregion_id": 4,
+          "country": "ar"
+        }
+      ]
+    },
+    {
+      "id": 3036862,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 3348616,
+          "name": "/steam/76561199087283540",
+          "alias": "PY_Chip",
+          "personal_statgroup_id": 3036862,
+          "xp": 2067,
+          "level": 2,
+          "leaderboardregion_id": 2,
+          "country": "vn"
+        }
+      ]
+    },
+    {
+      "id": 878191,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 1027291,
+          "name": "/steam/76561198362021606",
+          "alias": "aazz",
+          "personal_statgroup_id": 878191,
+          "xp": 2390,
+          "level": 2,
+          "leaderboardregion_id": 2,
+          "country": "tw"
+        }
+      ]
+    },
+    {
+      "id": 2968158,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 3274563,
+          "name": "/steam/76561198085849183",
+          "alias": "Gary_zZ",
+          "personal_statgroup_id": 2968158,
+          "xp": 2903,
+          "level": 2,
+          "leaderboardregion_id": 4,
+          "country": "ar"
+        }
+      ]
+    },
+    {
+      "id": 2540,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 209329,
+          "name": "/steam/76561198014542759",
+          "alias": "nC | PhilippHJS",
+          "personal_statgroup_id": 2540,
+          "xp": 5655,
+          "level": 3,
+          "leaderboardregion_id": 0,
+          "country": "de"
+        }
+      ]
+    },
+    {
+      "id": 6059247,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 10687332,
+          "name": "/steam/76561199368161302",
+          "alias": "HasmanIV",
+          "personal_statgroup_id": 6059247,
+          "xp": 382,
+          "level": 1,
+          "leaderboardregion_id": 0,
+          "country": "at"
+        }
+      ]
+    },
+    {
+      "id": 2698624,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 2982617,
+          "name": "/steam/76561199071404430",
+          "alias": "PaysanduFC",
+          "personal_statgroup_id": 2698624,
+          "xp": 1363,
+          "level": 1,
+          "leaderboardregion_id": 4,
+          "country": "uy"
+        }
+      ]
+    },
+    {
+      "id": 10328374,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 17806713,
+          "name": "/steam/76561199573461133",
+          "alias": "HqSu",
+          "personal_statgroup_id": 10328374,
+          "xp": 520,
+          "level": 1,
+          "leaderboardregion_id": 0,
+          "country": "fr"
+        }
+      ]
+    },
+    {
+      "id": 1657561,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 1885671,
+          "name": "/steam/76561198934236929",
+          "alias": "Mullisaukko",
+          "personal_statgroup_id": 1657561,
+          "xp": 5578,
+          "level": 3,
+          "leaderboardregion_id": 0,
+          "country": "fi"
+        }
+      ]
+    },
+    {
+      "id": 28642,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 230432,
+          "name": "/steam/76561198040347770",
+          "alias": "steak",
+          "personal_statgroup_id": 28642,
+          "xp": 4333,
+          "level": 2,
+          "leaderboardregion_id": 0,
+          "country": "gb"
+        }
+      ]
+    },
+    {
+      "id": 4408098,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 5557388,
+          "name": "/steam/76561199162023126",
+          "alias": "Varrus",
+          "personal_statgroup_id": 4408098,
+          "xp": 5443,
+          "level": 2,
+          "leaderboardregion_id": 3,
+          "country": "us"
+        }
+      ]
+    },
+    {
+      "id": 2162664,
+      "name": "",
+      "type": 1,
+      "members": [
+        {
+          "profile_id": 2420511,
+          "name": "/steam/76561198287592351",
+          "alias": "GodsPrisoner",
+          "personal_statgroup_id": 2162664,
+          "xp": 3551,
+          "level": 2,
+          "leaderboardregion_id": 3,
+          "country": "us"
+        }
+      ]
+    }
+  ],
+  "leaderboardStats": [
+    {
+      "statgroup_id": 3128668,
+      "leaderboard_id": 4,
+      "wins": 2274,
+      "losses": 969,
+      "streak": 4,
+      "disputes": 0,
+      "drops": 46,
+      "rank": 1,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 2135,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721238641,
+      "highestrank": 1,
+      "highestranklevel": 1,
+      "highestrating": 2162
+    },
+    {
+      "statgroup_id": 1942,
+      "leaderboard_id": 4,
+      "wins": 2595,
+      "losses": 1163,
+      "streak": 5,
+      "disputes": 0,
+      "drops": 66,
+      "rank": 2,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 2091,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721579074,
+      "highestrank": 2,
+      "highestranklevel": 1,
+      "highestrating": 2116
+    },
+    {
+      "statgroup_id": 270706,
+      "leaderboard_id": 4,
+      "wins": 3255,
+      "losses": 871,
+      "streak": 16,
+      "disputes": 0,
+      "drops": 36,
+      "rank": 3,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 2084,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721756794,
+      "highestrank": 1,
+      "highestranklevel": 1,
+      "highestrating": 2185
+    },
+    {
+      "statgroup_id": 18263,
+      "leaderboard_id": 4,
+      "wins": 2954,
+      "losses": 898,
+      "streak": 15,
+      "disputes": 0,
+      "drops": 66,
+      "rank": 4,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 2080,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721676416,
+      "highestrank": 1,
+      "highestranklevel": 1,
+      "highestrating": 2176
+    },
+    {
+      "statgroup_id": 198713,
+      "leaderboard_id": 4,
+      "wins": 856,
+      "losses": 370,
+      "streak": 22,
+      "disputes": 0,
+      "drops": 9,
+      "rank": 5,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 2068,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721755175,
+      "highestrank": 4,
+      "highestranklevel": 1,
+      "highestrating": 2068
+    },
+    {
+      "statgroup_id": 1124440,
+      "leaderboard_id": 4,
+      "wins": 2366,
+      "losses": 657,
+      "streak": 6,
+      "disputes": 0,
+      "drops": 57,
+      "rank": 6,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 2047,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721651224,
+      "highestrank": 2,
+      "highestranklevel": 1,
+      "highestrating": 2123
+    },
+    {
+      "statgroup_id": 546619,
+      "leaderboard_id": 4,
+      "wins": 2533,
+      "losses": 807,
+      "streak": 4,
+      "disputes": 0,
+      "drops": 34,
+      "rank": 7,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 2041,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721651224,
+      "highestrank": 2,
+      "highestranklevel": 1,
+      "highestrating": 2121
+    },
+    {
+      "statgroup_id": 39756,
+      "leaderboard_id": 4,
+      "wins": 901,
+      "losses": 230,
+      "streak": 3,
+      "disputes": 0,
+      "drops": 11,
+      "rank": 8,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 2040,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721533355,
+      "highestrank": 1,
+      "highestranklevel": 1,
+      "highestrating": 2100
+    },
+    {
+      "statgroup_id": 1137,
+      "leaderboard_id": 4,
+      "wins": 1272,
+      "losses": 253,
+      "streak": 3,
+      "disputes": 0,
+      "drops": 21,
+      "rank": 9,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 2040,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721352375,
+      "highestrank": 1,
+      "highestranklevel": 1,
+      "highestrating": 2136
+    },
+    {
+      "statgroup_id": 3077629,
+      "leaderboard_id": 4,
+      "wins": 1124,
+      "losses": 468,
+      "streak": 1,
+      "disputes": 0,
+      "drops": 9,
+      "rank": 10,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 2036,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1720990422,
+      "highestrank": 8,
+      "highestranklevel": 1,
+      "highestrating": 2041
+    },
+    {
+      "statgroup_id": 121023,
+      "leaderboard_id": 4,
+      "wins": 1007,
+      "losses": 444,
+      "streak": 4,
+      "disputes": 0,
+      "drops": 19,
+      "rank": 11,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 2034,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1720664357,
+      "highestrank": 2,
+      "highestranklevel": 1,
+      "highestrating": 2107
+    },
+    {
+      "statgroup_id": 5506688,
+      "leaderboard_id": 4,
+      "wins": 503,
+      "losses": 296,
+      "streak": 3,
+      "disputes": 0,
+      "drops": 18,
+      "rank": 12,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 2032,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721435554,
+      "highestrank": 2,
+      "highestranklevel": 1,
+      "highestrating": 2103
+    },
+    {
+      "statgroup_id": 357311,
+      "leaderboard_id": 4,
+      "wins": 3036,
+      "losses": 830,
+      "streak": 15,
+      "disputes": 0,
+      "drops": 100,
+      "rank": 13,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 2030,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721583152,
+      "highestrank": 3,
+      "highestranklevel": 1,
+      "highestrating": 2062
+    },
+    {
+      "statgroup_id": 48181,
+      "leaderboard_id": 4,
+      "wins": 2252,
+      "losses": 1073,
+      "streak": 13,
+      "disputes": 0,
+      "drops": 34,
+      "rank": 14,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 2026,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721676416,
+      "highestrank": 3,
+      "highestranklevel": 1,
+      "highestrating": 2099
+    },
+    {
+      "statgroup_id": 427697,
+      "leaderboard_id": 4,
+      "wins": 1410,
+      "losses": 537,
+      "streak": 16,
+      "disputes": 0,
+      "drops": 42,
+      "rank": 15,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 2024,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721674036,
+      "highestrank": 2,
+      "highestranklevel": 1,
+      "highestrating": 2104
+    },
+    {
+      "statgroup_id": 10328374,
+      "leaderboard_id": 4,
+      "wins": 387,
+      "losses": 127,
+      "streak": 2,
+      "disputes": 0,
+      "drops": 5,
+      "rank": 16,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 2023,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721606578,
+      "highestrank": 10,
+      "highestranklevel": 1,
+      "highestrating": 2036
+    },
+    {
+      "statgroup_id": 3820085,
+      "leaderboard_id": 4,
+      "wins": 525,
+      "losses": 236,
+      "streak": 2,
+      "disputes": 0,
+      "drops": 6,
+      "rank": 17,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 2002,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721055897,
+      "highestrank": 14,
+      "highestranklevel": 1,
+      "highestrating": 2004
+    },
+    {
+      "statgroup_id": 3648479,
+      "leaderboard_id": 4,
+      "wins": 1647,
+      "losses": 729,
+      "streak": 13,
+      "disputes": 0,
+      "drops": 24,
+      "rank": 18,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1996,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721762357,
+      "highestrank": 3,
+      "highestranklevel": 1,
+      "highestrating": 2083
+    },
+    {
+      "statgroup_id": 61573,
+      "leaderboard_id": 4,
+      "wins": 1050,
+      "losses": 221,
+      "streak": 13,
+      "disputes": 0,
+      "drops": 10,
+      "rank": 19,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1993,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721676416,
+      "highestrank": 1,
+      "highestranklevel": 1,
+      "highestrating": 2169
+    },
+    {
+      "statgroup_id": 7582,
+      "leaderboard_id": 4,
+      "wins": 1515,
+      "losses": 342,
+      "streak": 3,
+      "disputes": 0,
+      "drops": 15,
+      "rank": 20,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1990,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721583152,
+      "highestrank": 7,
+      "highestranklevel": 1,
+      "highestrating": 2032
+    },
+    {
+      "statgroup_id": 426341,
+      "leaderboard_id": 4,
+      "wins": 2580,
+      "losses": 632,
+      "streak": 14,
+      "disputes": 0,
+      "drops": 23,
+      "rank": 21,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1988,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721756794,
+      "highestrank": 3,
+      "highestranklevel": 1,
+      "highestrating": 2061
+    },
+    {
+      "statgroup_id": 1609698,
+      "leaderboard_id": 4,
+      "wins": 3318,
+      "losses": 1529,
+      "streak": 10,
+      "disputes": 0,
+      "drops": 48,
+      "rank": 22,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1988,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721386334,
+      "highestrank": 1,
+      "highestranklevel": 1,
+      "highestrating": 2181
+    },
+    {
+      "statgroup_id": 668956,
+      "leaderboard_id": 4,
+      "wins": 1654,
+      "losses": 569,
+      "streak": -1,
+      "disputes": 0,
+      "drops": 61,
+      "rank": 23,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1985,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721400890,
+      "highestrank": 2,
+      "highestranklevel": 1,
+      "highestrating": 2094
+    },
+    {
+      "statgroup_id": 1665022,
+      "leaderboard_id": 4,
+      "wins": 1714,
+      "losses": 438,
+      "streak": 2,
+      "disputes": 0,
+      "drops": 22,
+      "rank": 24,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1984,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721333976,
+      "highestrank": 3,
+      "highestranklevel": 1,
+      "highestrating": 2048
+    },
+    {
+      "statgroup_id": 9013166,
+      "leaderboard_id": 4,
+      "wins": 669,
+      "losses": 321,
+      "streak": 15,
+      "disputes": 0,
+      "drops": 4,
+      "rank": 25,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1982,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721048560,
+      "highestrank": 17,
+      "highestranklevel": 1,
+      "highestrating": 1982
+    },
+    {
+      "statgroup_id": 11167910,
+      "leaderboard_id": 4,
+      "wins": 209,
+      "losses": 75,
+      "streak": 10,
+      "disputes": 0,
+      "drops": 7,
+      "rank": 26,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1974,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721762662,
+      "highestrank": 24,
+      "highestranklevel": 1,
+      "highestrating": 1979
+    },
+    {
+      "statgroup_id": 2467409,
+      "leaderboard_id": 4,
+      "wins": 811,
+      "losses": 629,
+      "streak": 3,
+      "disputes": 0,
+      "drops": 25,
+      "rank": 27,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1970,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721688489,
+      "highestrank": 25,
+      "highestranklevel": 1,
+      "highestrating": 1970
+    },
+    {
+      "statgroup_id": 9276706,
+      "leaderboard_id": 4,
+      "wins": 676,
+      "losses": 505,
+      "streak": 1,
+      "disputes": 0,
+      "drops": 11,
+      "rank": 28,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1964,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721610992,
+      "highestrank": 13,
+      "highestranklevel": 1,
+      "highestrating": 2009
+    },
+    {
+      "statgroup_id": 9091405,
+      "leaderboard_id": 4,
+      "wins": 1091,
+      "losses": 648,
+      "streak": 16,
+      "disputes": 0,
+      "drops": 23,
+      "rank": 29,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1964,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721150582,
+      "highestrank": 24,
+      "highestranklevel": 1,
+      "highestrating": 1964
+    },
+    {
+      "statgroup_id": 1554006,
+      "leaderboard_id": 4,
+      "wins": 1135,
+      "losses": 541,
+      "streak": 8,
+      "disputes": 0,
+      "drops": 32,
+      "rank": 30,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1963,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721602337,
+      "highestrank": 1,
+      "highestranklevel": 1,
+      "highestrating": 2101
+    },
+    {
+      "statgroup_id": 609883,
+      "leaderboard_id": 4,
+      "wins": 766,
+      "losses": 220,
+      "streak": -1,
+      "disputes": 0,
+      "drops": 3,
+      "rank": 31,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1957,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721250161,
+      "highestrank": 12,
+      "highestranklevel": 1,
+      "highestrating": 2003
+    },
+    {
+      "statgroup_id": 119505,
+      "leaderboard_id": 4,
+      "wins": 1554,
+      "losses": 441,
+      "streak": 1,
+      "disputes": 0,
+      "drops": 16,
+      "rank": 32,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1957,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721105993,
+      "highestrank": 3,
+      "highestranklevel": 1,
+      "highestrating": 2059
+    },
+    {
+      "statgroup_id": 6835,
+      "leaderboard_id": 4,
+      "wins": 3638,
+      "losses": 884,
+      "streak": 9,
+      "disputes": 0,
+      "drops": 48,
+      "rank": 33,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1956,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721754820,
+      "highestrank": 2,
+      "highestranklevel": 1,
+      "highestrating": 2160
+    },
+    {
+      "statgroup_id": 10906643,
+      "leaderboard_id": 4,
+      "wins": 54,
+      "losses": 12,
+      "streak": 12,
+      "disputes": 0,
+      "drops": 1,
+      "rank": 34,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1953,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721683345,
+      "highestrank": 29,
+      "highestranklevel": 1,
+      "highestrating": 1953
+    },
+    {
+      "statgroup_id": 715743,
+      "leaderboard_id": 4,
+      "wins": 1489,
+      "losses": 642,
+      "streak": 17,
+      "disputes": 0,
+      "drops": 30,
+      "rank": 35,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1951,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721655604,
+      "highestrank": 26,
+      "highestranklevel": 1,
+      "highestrating": 1951
+    },
+    {
+      "statgroup_id": 236159,
+      "leaderboard_id": 4,
+      "wins": 1790,
+      "losses": 1120,
+      "streak": 3,
+      "disputes": 0,
+      "drops": 66,
+      "rank": 36,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1943,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721762357,
+      "highestrank": 3,
+      "highestranklevel": 1,
+      "highestrating": 2093
+    },
+    {
+      "statgroup_id": 38986,
+      "leaderboard_id": 4,
+      "wins": 989,
+      "losses": 519,
+      "streak": 1,
+      "disputes": 0,
+      "drops": 17,
+      "rank": 37,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1942,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721512281,
+      "highestrank": 5,
+      "highestranklevel": 1,
+      "highestrating": 1965
+    },
+    {
+      "statgroup_id": 2010101,
+      "leaderboard_id": 4,
+      "wins": 1745,
+      "losses": 952,
+      "streak": 1,
+      "disputes": 0,
+      "drops": 39,
+      "rank": 38,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1942,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1720619915,
+      "highestrank": 13,
+      "highestranklevel": 1,
+      "highestrating": 1958
+    },
+    {
+      "statgroup_id": 35292,
+      "leaderboard_id": 4,
+      "wins": 742,
+      "losses": 324,
+      "streak": -1,
+      "disputes": 0,
+      "drops": 7,
+      "rank": 39,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1937,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721508553,
+      "highestrank": 25,
+      "highestranklevel": 1,
+      "highestrating": 1969
+    },
+    {
+      "statgroup_id": 2571090,
+      "leaderboard_id": 4,
+      "wins": 1614,
+      "losses": 729,
+      "streak": -1,
+      "disputes": 0,
+      "drops": 26,
+      "rank": 40,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1937,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721593113,
+      "highestrank": 7,
+      "highestranklevel": 1,
+      "highestrating": 2007
+    },
+    {
+      "statgroup_id": 4844225,
+      "leaderboard_id": 4,
+      "wins": 613,
+      "losses": 327,
+      "streak": 1,
+      "disputes": 0,
+      "drops": 30,
+      "rank": 41,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1934,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721651224,
+      "highestrank": 17,
+      "highestranklevel": 1,
+      "highestrating": 1996
+    },
+    {
+      "statgroup_id": 3316838,
+      "leaderboard_id": 4,
+      "wins": 686,
+      "losses": 322,
+      "streak": 12,
+      "disputes": 0,
+      "drops": 10,
+      "rank": 42,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1933,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721617465,
+      "highestrank": 24,
+      "highestranklevel": 1,
+      "highestrating": 1981
+    },
+    {
+      "statgroup_id": 132214,
+      "leaderboard_id": 4,
+      "wins": 998,
+      "losses": 434,
+      "streak": 3,
+      "disputes": 0,
+      "drops": 18,
+      "rank": 43,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1933,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1720903816,
+      "highestrank": 31,
+      "highestranklevel": 1,
+      "highestrating": 1945
+    },
+    {
+      "statgroup_id": 3523607,
+      "leaderboard_id": 4,
+      "wins": 1584,
+      "losses": 741,
+      "streak": -1,
+      "disputes": 0,
+      "drops": 24,
+      "rank": 44,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1930,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1719774111,
+      "highestrank": 3,
+      "highestranklevel": 1,
+      "highestrating": 2104
+    },
+    {
+      "statgroup_id": 18133,
+      "leaderboard_id": 4,
+      "wins": 2498,
+      "losses": 1088,
+      "streak": 6,
+      "disputes": 0,
+      "drops": 39,
+      "rank": 45,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1929,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721554141,
+      "highestrank": 33,
+      "highestranklevel": 1,
+      "highestrating": 1943
+    },
+    {
+      "statgroup_id": 5233458,
+      "leaderboard_id": 4,
+      "wins": 740,
+      "losses": 298,
+      "streak": 11,
+      "disputes": 0,
+      "drops": 14,
+      "rank": 46,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1928,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721762357,
+      "highestrank": 12,
+      "highestranklevel": 1,
+      "highestrating": 1981
+    },
+    {
+      "statgroup_id": 3132727,
+      "leaderboard_id": 4,
+      "wins": 852,
+      "losses": 385,
+      "streak": 9,
+      "disputes": 0,
+      "drops": 11,
+      "rank": 47,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1928,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721664333,
+      "highestrank": 40,
+      "highestranklevel": 1,
+      "highestrating": 1932
+    },
+    {
+      "statgroup_id": 3536685,
+      "leaderboard_id": 4,
+      "wins": 3892,
+      "losses": 2767,
+      "streak": 2,
+      "disputes": 0,
+      "drops": 129,
+      "rank": 48,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1927,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1720962680,
+      "highestrank": 28,
+      "highestranklevel": 1,
+      "highestrating": 1949
+    },
+    {
+      "statgroup_id": 2787680,
+      "leaderboard_id": 4,
+      "wins": 1766,
+      "losses": 770,
+      "streak": 9,
+      "disputes": 0,
+      "drops": 31,
+      "rank": 49,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1926,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721384428,
+      "highestrank": 3,
+      "highestranklevel": 1,
+      "highestrating": 2114
+    },
+    {
+      "statgroup_id": 163946,
+      "leaderboard_id": 4,
+      "wins": 1399,
+      "losses": 787,
+      "streak": 4,
+      "disputes": 0,
+      "drops": 41,
+      "rank": 50,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1926,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721768830,
+      "highestrank": 23,
+      "highestranklevel": 1,
+      "highestrating": 1976
+    },
+    {
+      "statgroup_id": 15474,
+      "leaderboard_id": 4,
+      "wins": 1762,
+      "losses": 581,
+      "streak": 3,
+      "disputes": 0,
+      "drops": 14,
+      "rank": 51,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1923,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1720737994,
+      "highestrank": 20,
+      "highestranklevel": 1,
+      "highestrating": 1990
+    },
+    {
+      "statgroup_id": 10918506,
+      "leaderboard_id": 4,
+      "wins": 74,
+      "losses": 16,
+      "streak": -1,
+      "disputes": 0,
+      "drops": 2,
+      "rank": 52,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1923,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1719414150,
+      "highestrank": 23,
+      "highestranklevel": 1,
+      "highestrating": 1964
+    },
+    {
+      "statgroup_id": 8596881,
+      "leaderboard_id": 4,
+      "wins": 1400,
+      "losses": 606,
+      "streak": -1,
+      "disputes": 0,
+      "drops": 26,
+      "rank": 53,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1922,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721515133,
+      "highestrank": 6,
+      "highestranklevel": 1,
+      "highestrating": 2041
+    },
+    {
+      "statgroup_id": 28642,
+      "leaderboard_id": 4,
+      "wins": 1303,
+      "losses": 610,
+      "streak": 6,
+      "disputes": 0,
+      "drops": 18,
+      "rank": 54,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1922,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721756672,
+      "highestrank": 42,
+      "highestranklevel": 1,
+      "highestrating": 1929
+    },
+    {
+      "statgroup_id": 878191,
+      "leaderboard_id": 4,
+      "wins": 446,
+      "losses": 289,
+      "streak": 6,
+      "disputes": 0,
+      "drops": 12,
+      "rank": 55,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1920,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721011722,
+      "highestrank": 49,
+      "highestranklevel": 1,
+      "highestrating": 1920
+    },
+    {
+      "statgroup_id": 2540,
+      "leaderboard_id": 4,
+      "wins": 1752,
+      "losses": 578,
+      "streak": 3,
+      "disputes": 0,
+      "drops": 41,
+      "rank": 56,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1920,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721248019,
+      "highestrank": 5,
+      "highestranklevel": 1,
+      "highestrating": 2027
+    },
+    {
+      "statgroup_id": 36592,
+      "leaderboard_id": 4,
+      "wins": 483,
+      "losses": 259,
+      "streak": 1,
+      "disputes": 0,
+      "drops": 12,
+      "rank": 57,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1919,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721352375,
+      "highestrank": 30,
+      "highestranklevel": 1,
+      "highestrating": 1972
+    },
+    {
+      "statgroup_id": 76121,
+      "leaderboard_id": 4,
+      "wins": 1288,
+      "losses": 731,
+      "streak": 2,
+      "disputes": 0,
+      "drops": 44,
+      "rank": 58,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1915,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721420931,
+      "highestrank": 48,
+      "highestranklevel": 1,
+      "highestrating": 1929
+    },
+    {
+      "statgroup_id": 2250,
+      "leaderboard_id": 4,
+      "wins": 941,
+      "losses": 372,
+      "streak": 7,
+      "disputes": 0,
+      "drops": 25,
+      "rank": 59,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1913,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721314682,
+      "highestrank": 32,
+      "highestranklevel": 1,
+      "highestrating": 1951
+    },
+    {
+      "statgroup_id": 551718,
+      "leaderboard_id": 4,
+      "wins": 1394,
+      "losses": 594,
+      "streak": 11,
+      "disputes": 0,
+      "drops": 13,
+      "rank": 60,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1911,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721655604,
+      "highestrank": 17,
+      "highestranklevel": 1,
+      "highestrating": 1973
+    },
+    {
+      "statgroup_id": 1885665,
+      "leaderboard_id": 4,
+      "wins": 2095,
+      "losses": 1023,
+      "streak": 2,
+      "disputes": 0,
+      "drops": 16,
+      "rank": 61,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1911,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721544118,
+      "highestrank": 3,
+      "highestranklevel": 1,
+      "highestrating": 2054
+    },
+    {
+      "statgroup_id": 731189,
+      "leaderboard_id": 4,
+      "wins": 1582,
+      "losses": 1116,
+      "streak": -1,
+      "disputes": 0,
+      "drops": 31,
+      "rank": 62,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1910,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721617465,
+      "highestrank": 26,
+      "highestranklevel": 1,
+      "highestrating": 1953
+    },
+    {
+      "statgroup_id": 1048099,
+      "leaderboard_id": 4,
+      "wins": 1675,
+      "losses": 1134,
+      "streak": 7,
+      "disputes": 0,
+      "drops": 39,
+      "rank": 63,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1908,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721492631,
+      "highestrank": 56,
+      "highestranklevel": 1,
+      "highestrating": 1908
+    },
+    {
+      "statgroup_id": 179840,
+      "leaderboard_id": 4,
+      "wins": 717,
+      "losses": 572,
+      "streak": 5,
+      "disputes": 0,
+      "drops": 10,
+      "rank": 64,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1907,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721455337,
+      "highestrank": 61,
+      "highestranklevel": 1,
+      "highestrating": 1907
+    },
+    {
+      "statgroup_id": 6427319,
+      "leaderboard_id": 4,
+      "wins": 745,
+      "losses": 451,
+      "streak": 3,
+      "disputes": 0,
+      "drops": 42,
+      "rank": 65,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1904,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721693270,
+      "highestrank": 63,
+      "highestranklevel": 1,
+      "highestrating": 1904
+    },
+    {
+      "statgroup_id": 2505986,
+      "leaderboard_id": 4,
+      "wins": 1646,
+      "losses": 694,
+      "streak": 1,
+      "disputes": 0,
+      "drops": 28,
+      "rank": 66,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1904,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721496416,
+      "highestrank": 10,
+      "highestranklevel": 1,
+      "highestrating": 2008
+    },
+    {
+      "statgroup_id": 4162699,
+      "leaderboard_id": 4,
+      "wins": 900,
+      "losses": 632,
+      "streak": 1,
+      "disputes": 0,
+      "drops": 16,
+      "rank": 67,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1900,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721669200,
+      "highestrank": 45,
+      "highestranklevel": 1,
+      "highestrating": 1941
+    },
+    {
+      "statgroup_id": 2554058,
+      "leaderboard_id": 4,
+      "wins": 1027,
+      "losses": 647,
+      "streak": -1,
+      "disputes": 0,
+      "drops": 39,
+      "rank": 68,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1900,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721617465,
+      "highestrank": 12,
+      "highestranklevel": 1,
+      "highestrating": 2020
+    },
+    {
+      "statgroup_id": 89907,
+      "leaderboard_id": 4,
+      "wins": 677,
+      "losses": 321,
+      "streak": 1,
+      "disputes": 0,
+      "drops": 32,
+      "rank": 69,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1899,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1720002195,
+      "highestrank": 28,
+      "highestranklevel": 1,
+      "highestrating": 1941
+    },
+    {
+      "statgroup_id": 758592,
+      "leaderboard_id": 4,
+      "wins": 947,
+      "losses": 471,
+      "streak": 4,
+      "disputes": 0,
+      "drops": 14,
+      "rank": 70,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1899,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721243504,
+      "highestrank": 18,
+      "highestranklevel": 1,
+      "highestrating": 1966
+    },
+    {
+      "statgroup_id": 4052354,
+      "leaderboard_id": 4,
+      "wins": 1548,
+      "losses": 870,
+      "streak": 5,
+      "disputes": 0,
+      "drops": 68,
+      "rank": 71,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1898,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721675864,
+      "highestrank": 3,
+      "highestranklevel": 1,
+      "highestrating": 2098
+    },
+    {
+      "statgroup_id": 2746957,
+      "leaderboard_id": 4,
+      "wins": 588,
+      "losses": 332,
+      "streak": -4,
+      "disputes": 0,
+      "drops": 13,
+      "rank": 72,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1897,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1720727639,
+      "highestrank": 9,
+      "highestranklevel": 1,
+      "highestrating": 2029
+    },
+    {
+      "statgroup_id": 1569455,
+      "leaderboard_id": 4,
+      "wins": 1267,
+      "losses": 868,
+      "streak": 1,
+      "disputes": 0,
+      "drops": 26,
+      "rank": 73,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1897,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721423795,
+      "highestrank": 40,
+      "highestranklevel": 1,
+      "highestrating": 1932
+    },
+    {
+      "statgroup_id": 1211943,
+      "leaderboard_id": 4,
+      "wins": 533,
+      "losses": 352,
+      "streak": 1,
+      "disputes": 0,
+      "drops": 9,
+      "rank": 74,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1897,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1720664659,
+      "highestrank": 34,
+      "highestranklevel": 1,
+      "highestrating": 1941
+    },
+    {
+      "statgroup_id": 476013,
+      "leaderboard_id": 4,
+      "wins": 567,
+      "losses": 208,
+      "streak": -1,
+      "disputes": 0,
+      "drops": 18,
+      "rank": 75,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1895,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721078652,
+      "highestrank": 16,
+      "highestranklevel": 1,
+      "highestrating": 1967
+    },
+    {
+      "statgroup_id": 228403,
+      "leaderboard_id": 4,
+      "wins": 1274,
+      "losses": 534,
+      "streak": -1,
+      "disputes": 0,
+      "drops": 14,
+      "rank": 76,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1894,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721515133,
+      "highestrank": 34,
+      "highestranklevel": 1,
+      "highestrating": 1945
+    },
+    {
+      "statgroup_id": 11247428,
+      "leaderboard_id": 4,
+      "wins": 40,
+      "losses": 7,
+      "streak": 2,
+      "disputes": 0,
+      "drops": 3,
+      "rank": 77,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1893,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1720463475,
+      "highestrank": 33,
+      "highestranklevel": 1,
+      "highestrating": 1947
+    },
+    {
+      "statgroup_id": 5576007,
+      "leaderboard_id": 4,
+      "wins": 507,
+      "losses": 148,
+      "streak": 3,
+      "disputes": 0,
+      "drops": 2,
+      "rank": 78,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1890,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721699502,
+      "highestrank": 7,
+      "highestranklevel": 1,
+      "highestrating": 2034
+    },
+    {
+      "statgroup_id": 2970768,
+      "leaderboard_id": 4,
+      "wins": 1327,
+      "losses": 942,
+      "streak": 6,
+      "disputes": 0,
+      "drops": 46,
+      "rank": 79,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1890,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1720585445,
+      "highestrank": 58,
+      "highestranklevel": 1,
+      "highestrating": 1900
+    },
+    {
+      "statgroup_id": 202509,
+      "leaderboard_id": 4,
+      "wins": 1919,
+      "losses": 1119,
+      "streak": 25,
+      "disputes": 0,
+      "drops": 51,
+      "rank": 80,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1890,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721471317,
+      "highestrank": 70,
+      "highestranklevel": 1,
+      "highestrating": 1904
+    },
+    {
+      "statgroup_id": 3928,
+      "leaderboard_id": 4,
+      "wins": 1108,
+      "losses": 332,
+      "streak": 3,
+      "disputes": 0,
+      "drops": 9,
+      "rank": 81,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1887,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1720737994,
+      "highestrank": 4,
+      "highestranklevel": 1,
+      "highestrating": 2070
+    },
+    {
+      "statgroup_id": 5318737,
+      "leaderboard_id": 4,
+      "wins": 842,
+      "losses": 650,
+      "streak": 5,
+      "disputes": 0,
+      "drops": 15,
+      "rank": 82,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1886,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721515133,
+      "highestrank": 82,
+      "highestranklevel": 1,
+      "highestrating": 1886
+    },
+    {
+      "statgroup_id": 1875770,
+      "leaderboard_id": 4,
+      "wins": 594,
+      "losses": 251,
+      "streak": 3,
+      "disputes": 0,
+      "drops": 10,
+      "rank": 83,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1886,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721179684,
+      "highestrank": 6,
+      "highestranklevel": 1,
+      "highestrating": 2054
+    },
+    {
+      "statgroup_id": 1922977,
+      "leaderboard_id": 4,
+      "wins": 1134,
+      "losses": 644,
+      "streak": 5,
+      "disputes": 0,
+      "drops": 8,
+      "rank": 84,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1885,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721188824,
+      "highestrank": 41,
+      "highestranklevel": 1,
+      "highestrating": 1914
+    },
+    {
+      "statgroup_id": 1737,
+      "leaderboard_id": 4,
+      "wins": 476,
+      "losses": 135,
+      "streak": 2,
+      "disputes": 0,
+      "drops": 7,
+      "rank": 85,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1883,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721396304,
+      "highestrank": 49,
+      "highestranklevel": 1,
+      "highestrating": 1920
+    },
+    {
+      "statgroup_id": 18788,
+      "leaderboard_id": 4,
+      "wins": 494,
+      "losses": 164,
+      "streak": -1,
+      "disputes": 0,
+      "drops": 7,
+      "rank": 86,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1882,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721517665,
+      "highestrank": 24,
+      "highestranklevel": 1,
+      "highestrating": 1944
+    },
+    {
+      "statgroup_id": 6499576,
+      "leaderboard_id": 4,
+      "wins": 270,
+      "losses": 96,
+      "streak": -1,
+      "disputes": 0,
+      "drops": 12,
+      "rank": 87,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1881,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721078652,
+      "highestrank": 13,
+      "highestranklevel": 1,
+      "highestrating": 1996
+    },
+    {
+      "statgroup_id": 4598811,
+      "leaderboard_id": 4,
+      "wins": 879,
+      "losses": 521,
+      "streak": 7,
+      "disputes": 0,
+      "drops": 19,
+      "rank": 88,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1881,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721241573,
+      "highestrank": 12,
+      "highestranklevel": 1,
+      "highestrating": 1998
+    },
+    {
+      "statgroup_id": 10105190,
+      "leaderboard_id": 4,
+      "wins": 154,
+      "losses": 65,
+      "streak": 2,
+      "disputes": 0,
+      "drops": 0,
+      "rank": 89,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1881,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721593633,
+      "highestrank": 86,
+      "highestranklevel": 1,
+      "highestrating": 1881
+    },
+    {
+      "statgroup_id": 11001798,
+      "leaderboard_id": 4,
+      "wins": 232,
+      "losses": 120,
+      "streak": 4,
+      "disputes": 0,
+      "drops": 4,
+      "rank": 90,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1880,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721550250,
+      "highestrank": 90,
+      "highestranklevel": 1,
+      "highestrating": 1880
+    },
+    {
+      "statgroup_id": 2032158,
+      "leaderboard_id": 4,
+      "wins": 2187,
+      "losses": 1193,
+      "streak": 7,
+      "disputes": 0,
+      "drops": 93,
+      "rank": 91,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1879,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721617465,
+      "highestrank": 53,
+      "highestranklevel": 1,
+      "highestrating": 1916
+    },
+    {
+      "statgroup_id": 590189,
+      "leaderboard_id": 4,
+      "wins": 1005,
+      "losses": 456,
+      "streak": 18,
+      "disputes": 0,
+      "drops": 14,
+      "rank": 92,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1878,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721748614,
+      "highestrank": 80,
+      "highestranklevel": 1,
+      "highestrating": 1879
+    },
+    {
+      "statgroup_id": 5616966,
+      "leaderboard_id": 4,
+      "wins": 1015,
+      "losses": 685,
+      "streak": -2,
+      "disputes": 0,
+      "drops": 29,
+      "rank": 93,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1878,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721314682,
+      "highestrank": 9,
+      "highestranklevel": 1,
+      "highestrating": 2038
+    },
+    {
+      "statgroup_id": 5290407,
+      "leaderboard_id": 4,
+      "wins": 796,
+      "losses": 180,
+      "streak": 8,
+      "disputes": 0,
+      "drops": 14,
+      "rank": 94,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1878,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1720086468,
+      "highestrank": 2,
+      "highestranklevel": 1,
+      "highestrating": 2127
+    },
+    {
+      "statgroup_id": 1855428,
+      "leaderboard_id": 4,
+      "wins": 569,
+      "losses": 150,
+      "streak": 1,
+      "disputes": 0,
+      "drops": 5,
+      "rank": 95,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1877,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721435554,
+      "highestrank": 47,
+      "highestranklevel": 1,
+      "highestrating": 1896
+    },
+    {
+      "statgroup_id": 81668,
+      "leaderboard_id": 4,
+      "wins": 3043,
+      "losses": 2570,
+      "streak": -1,
+      "disputes": 0,
+      "drops": 135,
+      "rank": 96,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1876,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721680495,
+      "highestrank": 36,
+      "highestranklevel": 1,
+      "highestrating": 1941
+    },
+    {
+      "statgroup_id": 4771033,
+      "leaderboard_id": 4,
+      "wins": 572,
+      "losses": 337,
+      "streak": 10,
+      "disputes": 0,
+      "drops": 26,
+      "rank": 97,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1876,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721420931,
+      "highestrank": 81,
+      "highestranklevel": 1,
+      "highestrating": 1890
+    },
+    {
+      "statgroup_id": 2360282,
+      "leaderboard_id": 4,
+      "wins": 2469,
+      "losses": 2314,
+      "streak": -1,
+      "disputes": 0,
+      "drops": 50,
+      "rank": 98,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1876,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721681849,
+      "highestrank": 21,
+      "highestranklevel": 1,
+      "highestrating": 1965
+    },
+    {
+      "statgroup_id": 2389202,
+      "leaderboard_id": 4,
+      "wins": 818,
+      "losses": 413,
+      "streak": -1,
+      "disputes": 0,
+      "drops": 10,
+      "rank": 99,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1875,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721541973,
+      "highestrank": 38,
+      "highestranklevel": 1,
+      "highestrating": 1918
+    },
+    {
+      "statgroup_id": 6098705,
+      "leaderboard_id": 4,
+      "wins": 588,
+      "losses": 363,
+      "streak": 9,
+      "disputes": 0,
+      "drops": 22,
+      "rank": 100,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1872,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1720996961,
+      "highestrank": 52,
+      "highestranklevel": 1,
+      "highestrating": 1881
+    },
+    {
+      "statgroup_id": 2496487,
+      "leaderboard_id": 4,
+      "wins": 1183,
+      "losses": 752,
+      "streak": 8,
+      "disputes": 0,
+      "drops": 33,
+      "rank": 101,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1872,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721519670,
+      "highestrank": 34,
+      "highestranklevel": 1,
+      "highestrating": 1915
+    },
+    {
+      "statgroup_id": 438937,
+      "leaderboard_id": 4,
+      "wins": 1092,
+      "losses": 756,
+      "streak": -1,
+      "disputes": 0,
+      "drops": 35,
+      "rank": 102,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1871,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721692690,
+      "highestrank": 39,
+      "highestranklevel": 1,
+      "highestrating": 1934
+    },
+    {
+      "statgroup_id": 2549293,
+      "leaderboard_id": 4,
+      "wins": 541,
+      "losses": 230,
+      "streak": 5,
+      "disputes": 0,
+      "drops": 4,
+      "rank": 103,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1870,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721605824,
+      "highestrank": 46,
+      "highestranklevel": 1,
+      "highestrating": 1913
+    },
+    {
+      "statgroup_id": 4758,
+      "leaderboard_id": 4,
+      "wins": 1005,
+      "losses": 606,
+      "streak": 6,
+      "disputes": 0,
+      "drops": 20,
+      "rank": 104,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1869,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721756672,
+      "highestrank": 104,
+      "highestranklevel": 1,
+      "highestrating": 1869
+    },
+    {
+      "statgroup_id": 4639385,
+      "leaderboard_id": 4,
+      "wins": 731,
+      "losses": 345,
+      "streak": 6,
+      "disputes": 0,
+      "drops": 7,
+      "rank": 105,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1868,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721533355,
+      "highestrank": 22,
+      "highestranklevel": 1,
+      "highestrating": 1983
+    },
+    {
+      "statgroup_id": 2698624,
+      "leaderboard_id": 4,
+      "wins": 880,
+      "losses": 499,
+      "streak": 3,
+      "disputes": 0,
+      "drops": 16,
+      "rank": 106,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1868,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721004841,
+      "highestrank": 47,
+      "highestranklevel": 1,
+      "highestrating": 1920
+    },
+    {
+      "statgroup_id": 2646587,
+      "leaderboard_id": 4,
+      "wins": 258,
+      "losses": 90,
+      "streak": 5,
+      "disputes": 0,
+      "drops": 1,
+      "rank": 107,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1867,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721762101,
+      "highestrank": 61,
+      "highestranklevel": 1,
+      "highestrating": 1907
+    },
+    {
+      "statgroup_id": 2786845,
+      "leaderboard_id": 4,
+      "wins": 1081,
+      "losses": 521,
+      "streak": 1,
+      "disputes": 0,
+      "drops": 33,
+      "rank": 108,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1865,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1720592836,
+      "highestrank": 27,
+      "highestranklevel": 1,
+      "highestrating": 1970
+    },
+    {
+      "statgroup_id": 1390583,
+      "leaderboard_id": 4,
+      "wins": 1216,
+      "losses": 998,
+      "streak": -2,
+      "disputes": 0,
+      "drops": 56,
+      "rank": 109,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1865,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721314682,
+      "highestrank": 51,
+      "highestranklevel": 1,
+      "highestrating": 1914
+    },
+    {
+      "statgroup_id": 429837,
+      "leaderboard_id": 4,
+      "wins": 2330,
+      "losses": 1653,
+      "streak": 2,
+      "disputes": 0,
+      "drops": 71,
+      "rank": 110,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1863,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1720704721,
+      "highestrank": 93,
+      "highestranklevel": 1,
+      "highestrating": 1872
+    },
+    {
+      "statgroup_id": 3905029,
+      "leaderboard_id": 4,
+      "wins": 182,
+      "losses": 77,
+      "streak": -1,
+      "disputes": 0,
+      "drops": 3,
+      "rank": 111,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1862,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721755175,
+      "highestrank": 46,
+      "highestranklevel": 1,
+      "highestrating": 1934
+    },
+    {
+      "statgroup_id": 861377,
+      "leaderboard_id": 4,
+      "wins": 1003,
+      "losses": 507,
+      "streak": 9,
+      "disputes": 0,
+      "drops": 34,
+      "rank": 112,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1861,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721617465,
+      "highestrank": 32,
+      "highestranklevel": 1,
+      "highestrating": 1973
+    },
+    {
+      "statgroup_id": 1657561,
+      "leaderboard_id": 4,
+      "wins": 2063,
+      "losses": 1004,
+      "streak": 4,
+      "disputes": 0,
+      "drops": 70,
+      "rank": 113,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1861,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721768830,
+      "highestrank": 26,
+      "highestranklevel": 1,
+      "highestrating": 1972
+    },
+    {
+      "statgroup_id": 545001,
+      "leaderboard_id": 4,
+      "wins": 1150,
+      "losses": 878,
+      "streak": 2,
+      "disputes": 0,
+      "drops": 59,
+      "rank": 114,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1858,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721664333,
+      "highestrank": 83,
+      "highestranklevel": 1,
+      "highestrating": 1878
+    },
+    {
+      "statgroup_id": 9008728,
+      "leaderboard_id": 4,
+      "wins": 981,
+      "losses": 588,
+      "streak": 2,
+      "disputes": 0,
+      "drops": 16,
+      "rank": 115,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1857,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1720605945,
+      "highestrank": 11,
+      "highestranklevel": 1,
+      "highestrating": 2028
+    },
+    {
+      "statgroup_id": 2877666,
+      "leaderboard_id": 4,
+      "wins": 1190,
+      "losses": 740,
+      "streak": 1,
+      "disputes": 0,
+      "drops": 15,
+      "rank": 116,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1857,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721701599,
+      "highestrank": 23,
+      "highestranklevel": 1,
+      "highestrating": 1982
+    },
+    {
+      "statgroup_id": 2689411,
+      "leaderboard_id": 4,
+      "wins": 883,
+      "losses": 442,
+      "streak": -1,
+      "disputes": 0,
+      "drops": 57,
+      "rank": 117,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1856,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721755175,
+      "highestrank": 12,
+      "highestranklevel": 1,
+      "highestrating": 2022
+    },
+    {
+      "statgroup_id": 5860484,
+      "leaderboard_id": 4,
+      "wins": 107,
+      "losses": 38,
+      "streak": 6,
+      "disputes": 0,
+      "drops": 3,
+      "rank": 118,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1855,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721450089,
+      "highestrank": 118,
+      "highestranklevel": 1,
+      "highestrating": 1855
+    },
+    {
+      "statgroup_id": 3620887,
+      "leaderboard_id": 4,
+      "wins": 1859,
+      "losses": 1780,
+      "streak": -1,
+      "disputes": 0,
+      "drops": 87,
+      "rank": 119,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1855,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721492631,
+      "highestrank": 58,
+      "highestranklevel": 1,
+      "highestrating": 1910
+    },
+    {
+      "statgroup_id": 580013,
+      "leaderboard_id": 4,
+      "wins": 2547,
+      "losses": 1173,
+      "streak": 5,
+      "disputes": 0,
+      "drops": 39,
+      "rank": 120,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1854,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721762101,
+      "highestrank": 57,
+      "highestranklevel": 1,
+      "highestrating": 1889
+    },
+    {
+      "statgroup_id": 102212,
+      "leaderboard_id": 4,
+      "wins": 1316,
+      "losses": 627,
+      "streak": 11,
+      "disputes": 0,
+      "drops": 37,
+      "rank": 121,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1854,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721583152,
+      "highestrank": 69,
+      "highestranklevel": 1,
+      "highestrating": 1867
+    },
+    {
+      "statgroup_id": 471804,
+      "leaderboard_id": 4,
+      "wins": 927,
+      "losses": 379,
+      "streak": -2,
+      "disputes": 0,
+      "drops": 12,
+      "rank": 122,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1852,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1720337096,
+      "highestrank": 16,
+      "highestranklevel": 1,
+      "highestrating": 1976
+    },
+    {
+      "statgroup_id": 41554,
+      "leaderboard_id": 4,
+      "wins": 1939,
+      "losses": 1044,
+      "streak": 1,
+      "disputes": 0,
+      "drops": 52,
+      "rank": 123,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1852,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1720810822,
+      "highestrank": 80,
+      "highestranklevel": 1,
+      "highestrating": 1878
+    },
+    {
+      "statgroup_id": 4139110,
+      "leaderboard_id": 4,
+      "wins": 1225,
+      "losses": 778,
+      "streak": -1,
+      "disputes": 0,
+      "drops": 31,
+      "rank": 124,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1852,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721541974,
+      "highestrank": 104,
+      "highestranklevel": 1,
+      "highestrating": 1872
+    },
+    {
+      "statgroup_id": 3126507,
+      "leaderboard_id": 4,
+      "wins": 656,
+      "losses": 438,
+      "streak": 5,
+      "disputes": 0,
+      "drops": 9,
+      "rank": 125,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1852,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721755926,
+      "highestrank": 63,
+      "highestranklevel": 1,
+      "highestrating": 1876
+    },
+    {
+      "statgroup_id": 5310457,
+      "leaderboard_id": 4,
+      "wins": 1079,
+      "losses": 652,
+      "streak": 1,
+      "disputes": 0,
+      "drops": 11,
+      "rank": 126,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1850,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721767424,
+      "highestrank": 46,
+      "highestranklevel": 1,
+      "highestrating": 1886
+    },
+    {
+      "statgroup_id": 2808337,
+      "leaderboard_id": 4,
+      "wins": 1632,
+      "losses": 502,
+      "streak": 1,
+      "disputes": 0,
+      "drops": 9,
+      "rank": 127,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1850,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721594997,
+      "highestrank": 24,
+      "highestranklevel": 1,
+      "highestrating": 1948
+    },
+    {
+      "statgroup_id": 4917212,
+      "leaderboard_id": 4,
+      "wins": 990,
+      "losses": 603,
+      "streak": -1,
+      "disputes": 0,
+      "drops": 38,
+      "rank": 128,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1849,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721610163,
+      "highestrank": 79,
+      "highestranklevel": 1,
+      "highestrating": 1891
+    },
+    {
+      "statgroup_id": 11055665,
+      "leaderboard_id": 4,
+      "wins": 60,
+      "losses": 33,
+      "streak": 6,
+      "disputes": 0,
+      "drops": 0,
+      "rank": 129,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1848,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721448879,
+      "highestrank": 129,
+      "highestranklevel": 1,
+      "highestrating": 1848
+    },
+    {
+      "statgroup_id": 1472112,
+      "leaderboard_id": 4,
+      "wins": 1520,
+      "losses": 953,
+      "streak": -1,
+      "disputes": 2,
+      "drops": 34,
+      "rank": 130,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1847,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721766739,
+      "highestrank": 17,
+      "highestranklevel": 1,
+      "highestrating": 1987
+    },
+    {
+      "statgroup_id": 11138242,
+      "leaderboard_id": 4,
+      "wins": 107,
+      "losses": 49,
+      "streak": 7,
+      "disputes": 0,
+      "drops": 4,
+      "rank": 131,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1847,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1719841778,
+      "highestrank": 100,
+      "highestranklevel": 1,
+      "highestrating": 1865
+    },
+    {
+      "statgroup_id": 6522724,
+      "leaderboard_id": 4,
+      "wins": 435,
+      "losses": 206,
+      "streak": -1,
+      "disputes": 0,
+      "drops": 12,
+      "rank": 132,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1846,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1720970077,
+      "highestrank": 30,
+      "highestranklevel": 1,
+      "highestrating": 1946
+    },
+    {
+      "statgroup_id": 2750121,
+      "leaderboard_id": 4,
+      "wins": 419,
+      "losses": 251,
+      "streak": 1,
+      "disputes": 0,
+      "drops": 23,
+      "rank": 133,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1846,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721673181,
+      "highestrank": 120,
+      "highestranklevel": 1,
+      "highestrating": 1854
+    },
+    {
+      "statgroup_id": 1827301,
+      "leaderboard_id": 4,
+      "wins": 953,
+      "losses": 598,
+      "streak": 9,
+      "disputes": 0,
+      "drops": 14,
+      "rank": 134,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1846,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721448879,
+      "highestrank": 59,
+      "highestranklevel": 1,
+      "highestrating": 1907
+    },
+    {
+      "statgroup_id": 116966,
+      "leaderboard_id": 4,
+      "wins": 2764,
+      "losses": 1657,
+      "streak": 1,
+      "disputes": 0,
+      "drops": 93,
+      "rank": 135,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1846,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721723457,
+      "highestrank": 8,
+      "highestranklevel": 1,
+      "highestrating": 2039
+    },
+    {
+      "statgroup_id": 2928046,
+      "leaderboard_id": 4,
+      "wins": 271,
+      "losses": 68,
+      "streak": -1,
+      "disputes": 0,
+      "drops": 3,
+      "rank": 136,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1845,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721507166,
+      "highestrank": 19,
+      "highestranklevel": 1,
+      "highestrating": 1969
+    },
+    {
+      "statgroup_id": 5317261,
+      "leaderboard_id": 4,
+      "wins": 171,
+      "losses": 64,
+      "streak": 3,
+      "disputes": 0,
+      "drops": 1,
+      "rank": 137,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1844,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1720737994,
+      "highestrank": 3,
+      "highestranklevel": 1,
+      "highestrating": 1988
+    },
+    {
+      "statgroup_id": 2105163,
+      "leaderboard_id": 4,
+      "wins": 1569,
+      "losses": 746,
+      "streak": 3,
+      "disputes": 1,
+      "drops": 13,
+      "rank": 138,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1843,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721335529,
+      "highestrank": 26,
+      "highestranklevel": 1,
+      "highestrating": 1935
+    },
+    {
+      "statgroup_id": 1306693,
+      "leaderboard_id": 4,
+      "wins": 906,
+      "losses": 522,
+      "streak": 3,
+      "disputes": 0,
+      "drops": 20,
+      "rank": 139,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1843,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721598421,
+      "highestrank": 76,
+      "highestranklevel": 1,
+      "highestrating": 1874
+    },
+    {
+      "statgroup_id": 302608,
+      "leaderboard_id": 4,
+      "wins": 515,
+      "losses": 320,
+      "streak": 5,
+      "disputes": 0,
+      "drops": 16,
+      "rank": 140,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1842,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721081270,
+      "highestrank": 140,
+      "highestranklevel": 1,
+      "highestrating": 1842
+    },
+    {
+      "statgroup_id": 1644431,
+      "leaderboard_id": 4,
+      "wins": 698,
+      "losses": 462,
+      "streak": 3,
+      "disputes": 0,
+      "drops": 31,
+      "rank": 141,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1842,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721533355,
+      "highestrank": 67,
+      "highestranklevel": 1,
+      "highestrating": 1891
+    },
+    {
+      "statgroup_id": 439017,
+      "leaderboard_id": 4,
+      "wins": 1265,
+      "losses": 760,
+      "streak": 1,
+      "disputes": 0,
+      "drops": 62,
+      "rank": 142,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1841,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1720909847,
+      "highestrank": 19,
+      "highestranklevel": 1,
+      "highestrating": 2000
+    },
+    {
+      "statgroup_id": 28696,
+      "leaderboard_id": 4,
+      "wins": 819,
+      "losses": 372,
+      "streak": 5,
+      "disputes": 0,
+      "drops": 5,
+      "rank": 143,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1841,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1720557269,
+      "highestrank": 73,
+      "highestranklevel": 1,
+      "highestrating": 1897
+    },
+    {
+      "statgroup_id": 4239499,
+      "leaderboard_id": 4,
+      "wins": 977,
+      "losses": 420,
+      "streak": 3,
+      "disputes": 0,
+      "drops": 17,
+      "rank": 144,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1840,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1720903816,
+      "highestrank": 85,
+      "highestranklevel": 1,
+      "highestrating": 1851
+    },
+    {
+      "statgroup_id": 297458,
+      "leaderboard_id": 4,
+      "wins": 1885,
+      "losses": 1470,
+      "streak": -1,
+      "disputes": 0,
+      "drops": 42,
+      "rank": 145,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1840,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721680495,
+      "highestrank": 50,
+      "highestranklevel": 1,
+      "highestrating": 1891
+    },
+    {
+      "statgroup_id": 255,
+      "leaderboard_id": 4,
+      "wins": 1707,
+      "losses": 611,
+      "streak": 2,
+      "disputes": 0,
+      "drops": 27,
+      "rank": 146,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1840,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721524089,
+      "highestrank": 41,
+      "highestranklevel": 1,
+      "highestrating": 1897
+    },
+    {
+      "statgroup_id": 55127,
+      "leaderboard_id": 4,
+      "wins": 347,
+      "losses": 93,
+      "streak": 3,
+      "disputes": 0,
+      "drops": 9,
+      "rank": 147,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1839,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721084471,
+      "highestrank": 91,
+      "highestranklevel": 1,
+      "highestrating": 1878
+    },
+    {
+      "statgroup_id": 4875261,
+      "leaderboard_id": 4,
+      "wins": 391,
+      "losses": 199,
+      "streak": 3,
+      "disputes": 0,
+      "drops": 10,
+      "rank": 148,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1839,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721165212,
+      "highestrank": 131,
+      "highestranklevel": 1,
+      "highestrating": 1847
+    },
+    {
+      "statgroup_id": 1799303,
+      "leaderboard_id": 4,
+      "wins": 876,
+      "losses": 517,
+      "streak": -1,
+      "disputes": 0,
+      "drops": 26,
+      "rank": 149,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1838,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721529049,
+      "highestrank": 101,
+      "highestranklevel": 1,
+      "highestrating": 1863
+    },
+    {
+      "statgroup_id": 5331864,
+      "leaderboard_id": 4,
+      "wins": 285,
+      "losses": 120,
+      "streak": -1,
+      "disputes": 0,
+      "drops": 2,
+      "rank": 150,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1836,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1719409861,
+      "highestrank": 92,
+      "highestranklevel": 1,
+      "highestrating": 1876
+    },
+    {
+      "statgroup_id": 2185744,
+      "leaderboard_id": 4,
+      "wins": 2173,
+      "losses": 1076,
+      "streak": -2,
+      "disputes": 0,
+      "drops": 58,
+      "rank": 151,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1836,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721758515,
+      "highestrank": 8,
+      "highestranklevel": 1,
+      "highestrating": 2052
+    },
+    {
+      "statgroup_id": 1054349,
+      "leaderboard_id": 4,
+      "wins": 797,
+      "losses": 485,
+      "streak": -1,
+      "disputes": 1,
+      "drops": 41,
+      "rank": 152,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1836,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721766739,
+      "highestrank": 52,
+      "highestranklevel": 1,
+      "highestrating": 1914
+    },
+    {
+      "statgroup_id": 2334747,
+      "leaderboard_id": 4,
+      "wins": 1250,
+      "losses": 742,
+      "streak": 3,
+      "disputes": 0,
+      "drops": 21,
+      "rank": 153,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1835,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721711343,
+      "highestrank": 83,
+      "highestranklevel": 1,
+      "highestrating": 1892
+    },
+    {
+      "statgroup_id": 1811185,
+      "leaderboard_id": 4,
+      "wins": 2627,
+      "losses": 2539,
+      "streak": 4,
+      "disputes": 0,
+      "drops": 73,
+      "rank": 154,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1834,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721755895,
+      "highestrank": 138,
+      "highestranklevel": 1,
+      "highestrating": 1844
+    },
+    {
+      "statgroup_id": 11118684,
+      "leaderboard_id": 4,
+      "wins": 42,
+      "losses": 23,
+      "streak": 3,
+      "disputes": 0,
+      "drops": 2,
+      "rank": 155,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1834,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721758592,
+      "highestrank": 155,
+      "highestranklevel": 1,
+      "highestrating": 1834
+    },
+    {
+      "statgroup_id": 3275552,
+      "leaderboard_id": 4,
+      "wins": 428,
+      "losses": 278,
+      "streak": 1,
+      "disputes": 0,
+      "drops": 13,
+      "rank": 156,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1833,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721669200,
+      "highestrank": 100,
+      "highestranklevel": 1,
+      "highestrating": 1871
+    },
+    {
+      "statgroup_id": 213725,
+      "leaderboard_id": 4,
+      "wins": 1321,
+      "losses": 566,
+      "streak": 3,
+      "disputes": 0,
+      "drops": 16,
+      "rank": 157,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1833,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721699502,
+      "highestrank": 34,
+      "highestranklevel": 1,
+      "highestrating": 1900
+    },
+    {
+      "statgroup_id": 885224,
+      "leaderboard_id": 4,
+      "wins": 1459,
+      "losses": 819,
+      "streak": 2,
+      "disputes": 0,
+      "drops": 33,
+      "rank": 158,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1831,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721454458,
+      "highestrank": 122,
+      "highestranklevel": 1,
+      "highestrating": 1859
+    },
+    {
+      "statgroup_id": 616952,
+      "leaderboard_id": 4,
+      "wins": 986,
+      "losses": 742,
+      "streak": -2,
+      "disputes": 0,
+      "drops": 35,
+      "rank": 159,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1831,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721450342,
+      "highestrank": 104,
+      "highestranklevel": 1,
+      "highestrating": 1871
+    },
+    {
+      "statgroup_id": 476502,
+      "leaderboard_id": 4,
+      "wins": 1008,
+      "losses": 402,
+      "streak": 2,
+      "disputes": 0,
+      "drops": 20,
+      "rank": 160,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1830,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721106123,
+      "highestrank": 123,
+      "highestranklevel": 1,
+      "highestrating": 1848
+    },
+    {
+      "statgroup_id": 3072348,
+      "leaderboard_id": 4,
+      "wins": 230,
+      "losses": 55,
+      "streak": 2,
+      "disputes": 0,
+      "drops": 3,
+      "rank": 161,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1830,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1720546402,
+      "highestrank": 36,
+      "highestranklevel": 1,
+      "highestrating": 1920
+    },
+    {
+      "statgroup_id": 2765142,
+      "leaderboard_id": 4,
+      "wins": 779,
+      "losses": 536,
+      "streak": 1,
+      "disputes": 0,
+      "drops": 57,
+      "rank": 162,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1829,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721701599,
+      "highestrank": 46,
+      "highestranklevel": 1,
+      "highestrating": 1916
+    },
+    {
+      "statgroup_id": 1398367,
+      "leaderboard_id": 4,
+      "wins": 556,
+      "losses": 330,
+      "streak": -1,
+      "disputes": 0,
+      "drops": 15,
+      "rank": 163,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1829,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1720807070,
+      "highestrank": 54,
+      "highestranklevel": 1,
+      "highestrating": 1914
+    },
+    {
+      "statgroup_id": 5909850,
+      "leaderboard_id": 4,
+      "wins": 921,
+      "losses": 530,
+      "streak": -1,
+      "disputes": 1,
+      "drops": 44,
+      "rank": 164,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1828,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1720983157,
+      "highestrank": 53,
+      "highestranklevel": 1,
+      "highestrating": 1914
+    },
+    {
+      "statgroup_id": 3036862,
+      "leaderboard_id": 4,
+      "wins": 479,
+      "losses": 198,
+      "streak": 1,
+      "disputes": 0,
+      "drops": 9,
+      "rank": 165,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1827,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721383391,
+      "highestrank": 26,
+      "highestranklevel": 1,
+      "highestrating": 1914
+    },
+    {
+      "statgroup_id": 1057863,
+      "leaderboard_id": 4,
+      "wins": 1992,
+      "losses": 1236,
+      "streak": -1,
+      "disputes": 1,
+      "drops": 36,
+      "rank": 166,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1827,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721640704,
+      "highestrank": 64,
+      "highestranklevel": 1,
+      "highestrating": 1905
+    },
+    {
+      "statgroup_id": 7352637,
+      "leaderboard_id": 4,
+      "wins": 79,
+      "losses": 29,
+      "streak": 1,
+      "disputes": 0,
+      "drops": 1,
+      "rank": 167,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1826,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721422860,
+      "highestrank": 64,
+      "highestranklevel": 1,
+      "highestrating": 1901
+    },
+    {
+      "statgroup_id": 574778,
+      "leaderboard_id": 4,
+      "wins": 1063,
+      "losses": 835,
+      "streak": -1,
+      "disputes": 0,
+      "drops": 17,
+      "rank": 168,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1826,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721439977,
+      "highestrank": 33,
+      "highestranklevel": 1,
+      "highestrating": 1874
+    },
+    {
+      "statgroup_id": 1633142,
+      "leaderboard_id": 4,
+      "wins": 740,
+      "losses": 599,
+      "streak": 3,
+      "disputes": 1,
+      "drops": 18,
+      "rank": 169,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1826,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721766739,
+      "highestrank": 126,
+      "highestranklevel": 1,
+      "highestrating": 1848
+    },
+    {
+      "statgroup_id": 9872969,
+      "leaderboard_id": 4,
+      "wins": 52,
+      "losses": 20,
+      "streak": 2,
+      "disputes": 0,
+      "drops": 0,
+      "rank": 170,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1825,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721099304,
+      "highestrank": 167,
+      "highestranklevel": 1,
+      "highestrating": 1825
+    },
+    {
+      "statgroup_id": 809965,
+      "leaderboard_id": 4,
+      "wins": 1282,
+      "losses": 776,
+      "streak": -3,
+      "disputes": 0,
+      "drops": 42,
+      "rank": 171,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1825,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721175665,
+      "highestrank": 57,
+      "highestranklevel": 1,
+      "highestrating": 1893
+    },
+    {
+      "statgroup_id": 6710200,
+      "leaderboard_id": 4,
+      "wins": 762,
+      "losses": 632,
+      "streak": -2,
+      "disputes": 0,
+      "drops": 29,
+      "rank": 172,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1825,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721314682,
+      "highestrank": 84,
+      "highestranklevel": 1,
+      "highestrating": 1889
+    },
+    {
+      "statgroup_id": 6172291,
+      "leaderboard_id": 4,
+      "wins": 380,
+      "losses": 281,
+      "streak": 1,
+      "disputes": 0,
+      "drops": 6,
+      "rank": 173,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1825,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1720810822,
+      "highestrank": 97,
+      "highestranklevel": 1,
+      "highestrating": 1872
+    },
+    {
+      "statgroup_id": 2840491,
+      "leaderboard_id": 4,
+      "wins": 1653,
+      "losses": 1108,
+      "streak": 1,
+      "disputes": 0,
+      "drops": 18,
+      "rank": 174,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1823,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721769618,
+      "highestrank": 35,
+      "highestranklevel": 1,
+      "highestrating": 1922
+    },
+    {
+      "statgroup_id": 215265,
+      "leaderboard_id": 4,
+      "wins": 1631,
+      "losses": 822,
+      "streak": -2,
+      "disputes": 0,
+      "drops": 39,
+      "rank": 175,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1823,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1720395562,
+      "highestrank": 9,
+      "highestranklevel": 1,
+      "highestrating": 2015
+    },
+    {
+      "statgroup_id": 1051265,
+      "leaderboard_id": 4,
+      "wins": 615,
+      "losses": 505,
+      "streak": -3,
+      "disputes": 0,
+      "drops": 13,
+      "rank": 176,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1823,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1720998637,
+      "highestrank": 84,
+      "highestranklevel": 1,
+      "highestrating": 1881
+    },
+    {
+      "statgroup_id": 9511234,
+      "leaderboard_id": 4,
+      "wins": 344,
+      "losses": 157,
+      "streak": -2,
+      "disputes": 0,
+      "drops": 4,
+      "rank": 177,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1822,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721765171,
+      "highestrank": 51,
+      "highestranklevel": 1,
+      "highestrating": 1912
+    },
+    {
+      "statgroup_id": 803514,
+      "leaderboard_id": 4,
+      "wins": 1643,
+      "losses": 1240,
+      "streak": -1,
+      "disputes": 0,
+      "drops": 42,
+      "rank": 178,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1822,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1720312258,
+      "highestrank": 65,
+      "highestranklevel": 1,
+      "highestrating": 1887
+    },
+    {
+      "statgroup_id": 4651769,
+      "leaderboard_id": 4,
+      "wins": 973,
+      "losses": 799,
+      "streak": -1,
+      "disputes": 0,
+      "drops": 31,
+      "rank": 179,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1822,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721318541,
+      "highestrank": 108,
+      "highestranklevel": 1,
+      "highestrating": 1845
+    },
+    {
+      "statgroup_id": 2968158,
+      "leaderboard_id": 4,
+      "wins": 1871,
+      "losses": 812,
+      "streak": -1,
+      "disputes": 0,
+      "drops": 23,
+      "rank": 180,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1822,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721426592,
+      "highestrank": 6,
+      "highestranklevel": 1,
+      "highestrating": 2042
+    },
+    {
+      "statgroup_id": 1526966,
+      "leaderboard_id": 4,
+      "wins": 2291,
+      "losses": 1674,
+      "streak": -2,
+      "disputes": 0,
+      "drops": 94,
+      "rank": 181,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1822,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1720463442,
+      "highestrank": 90,
+      "highestranklevel": 1,
+      "highestrating": 1874
+    },
+    {
+      "statgroup_id": 6281427,
+      "leaderboard_id": 4,
+      "wins": 707,
+      "losses": 317,
+      "streak": 5,
+      "disputes": 1,
+      "drops": 18,
+      "rank": 182,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1821,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721769541,
+      "highestrank": 68,
+      "highestranklevel": 1,
+      "highestrating": 1889
+    },
+    {
+      "statgroup_id": 5813990,
+      "leaderboard_id": 4,
+      "wins": 411,
+      "losses": 266,
+      "streak": -1,
+      "disputes": 0,
+      "drops": 9,
+      "rank": 183,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1821,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721640704,
+      "highestrank": 87,
+      "highestranklevel": 1,
+      "highestrating": 1883
+    },
+    {
+      "statgroup_id": 4408098,
+      "leaderboard_id": 4,
+      "wins": 1463,
+      "losses": 1082,
+      "streak": 1,
+      "disputes": 0,
+      "drops": 67,
+      "rank": 184,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1821,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721696581,
+      "highestrank": 156,
+      "highestranklevel": 1,
+      "highestrating": 1821
+    },
+    {
+      "statgroup_id": 3324221,
+      "leaderboard_id": 4,
+      "wins": 955,
+      "losses": 732,
+      "streak": 2,
+      "disputes": 0,
+      "drops": 28,
+      "rank": 185,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1821,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721593633,
+      "highestrank": 185,
+      "highestranklevel": 1,
+      "highestrating": 1821
+    },
+    {
+      "statgroup_id": 10467068,
+      "leaderboard_id": 4,
+      "wins": 995,
+      "losses": 448,
+      "streak": 2,
+      "disputes": 0,
+      "drops": 7,
+      "rank": 186,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1820,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721755432,
+      "highestrank": 16,
+      "highestranklevel": 1,
+      "highestrating": 1995
+    },
+    {
+      "statgroup_id": 100487,
+      "leaderboard_id": 4,
+      "wins": 626,
+      "losses": 285,
+      "streak": 9,
+      "disputes": 0,
+      "drops": 15,
+      "rank": 187,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1820,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1719895834,
+      "highestrank": 98,
+      "highestranklevel": 1,
+      "highestrating": 1836
+    },
+    {
+      "statgroup_id": 6259316,
+      "leaderboard_id": 4,
+      "wins": 325,
+      "losses": 224,
+      "streak": 3,
+      "disputes": 0,
+      "drops": 7,
+      "rank": 188,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1819,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721594339,
+      "highestrank": 83,
+      "highestranklevel": 1,
+      "highestrating": 1853
+    },
+    {
+      "statgroup_id": 3226663,
+      "leaderboard_id": 4,
+      "wins": 3223,
+      "losses": 2458,
+      "streak": 3,
+      "disputes": 0,
+      "drops": 56,
+      "rank": 189,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1819,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721711343,
+      "highestrank": 66,
+      "highestranklevel": 1,
+      "highestrating": 1861
+    },
+    {
+      "statgroup_id": 2694907,
+      "leaderboard_id": 4,
+      "wins": 349,
+      "losses": 155,
+      "streak": 6,
+      "disputes": 0,
+      "drops": 2,
+      "rank": 190,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1819,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1720776824,
+      "highestrank": 63,
+      "highestranklevel": 1,
+      "highestrating": 1879
+    },
+    {
+      "statgroup_id": 2162664,
+      "leaderboard_id": 4,
+      "wins": 369,
+      "losses": 164,
+      "streak": 3,
+      "disputes": 0,
+      "drops": 5,
+      "rank": 191,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1818,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721524500,
+      "highestrank": 61,
+      "highestranklevel": 1,
+      "highestrating": 1903
+    },
+    {
+      "statgroup_id": 10848630,
+      "leaderboard_id": 4,
+      "wins": 166,
+      "losses": 59,
+      "streak": -1,
+      "disputes": 1,
+      "drops": 3,
+      "rank": 192,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1818,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721640704,
+      "highestrank": 36,
+      "highestranklevel": 1,
+      "highestrating": 1948
+    },
+    {
+      "statgroup_id": 68325,
+      "leaderboard_id": 4,
+      "wins": 2319,
+      "losses": 1584,
+      "streak": 8,
+      "disputes": 0,
+      "drops": 31,
+      "rank": 193,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1817,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721681849,
+      "highestrank": 148,
+      "highestranklevel": 1,
+      "highestrating": 1824
+    },
+    {
+      "statgroup_id": 6059247,
+      "leaderboard_id": 4,
+      "wins": 193,
+      "losses": 101,
+      "streak": 3,
+      "disputes": 0,
+      "drops": 4,
+      "rank": 194,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1817,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721330759,
+      "highestrank": 177,
+      "highestranklevel": 1,
+      "highestrating": 1817
+    },
+    {
+      "statgroup_id": 1474919,
+      "leaderboard_id": 4,
+      "wins": 564,
+      "losses": 259,
+      "streak": -1,
+      "disputes": 0,
+      "drops": 16,
+      "rank": 195,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1817,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721541973,
+      "highestrank": 47,
+      "highestranklevel": 1,
+      "highestrating": 1887
+    },
+    {
+      "statgroup_id": 1598206,
+      "leaderboard_id": 4,
+      "wins": 1048,
+      "losses": 624,
+      "streak": -1,
+      "disputes": 0,
+      "drops": 52,
+      "rank": 196,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1816,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721512281,
+      "highestrank": 149,
+      "highestranklevel": 1,
+      "highestrating": 1840
+    },
+    {
+      "statgroup_id": 397465,
+      "leaderboard_id": 4,
+      "wins": 221,
+      "losses": 97,
+      "streak": 4,
+      "disputes": 0,
+      "drops": 5,
+      "rank": 197,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1815,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1719362779,
+      "highestrank": 145,
+      "highestranklevel": 1,
+      "highestrating": 1831
+    },
+    {
+      "statgroup_id": 3335850,
+      "leaderboard_id": 4,
+      "wins": 1107,
+      "losses": 907,
+      "streak": 1,
+      "disputes": 0,
+      "drops": 31,
+      "rank": 198,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1815,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721076464,
+      "highestrank": 184,
+      "highestranklevel": 1,
+      "highestrating": 1822
+    },
+    {
+      "statgroup_id": 619706,
+      "leaderboard_id": 4,
+      "wins": 1472,
+      "losses": 766,
+      "streak": 3,
+      "disputes": 1,
+      "drops": 38,
+      "rank": 199,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1814,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721763352,
+      "highestrank": 21,
+      "highestranklevel": 1,
+      "highestrating": 1984
+    },
+    {
+      "statgroup_id": 4335436,
+      "leaderboard_id": 4,
+      "wins": 616,
+      "losses": 390,
+      "streak": -1,
+      "disputes": 0,
+      "drops": 10,
+      "rank": 200,
+      "ranktotal": 73721,
+      "ranklevel": 1,
+      "rating": 1814,
+      "regionrank": -1,
+      "regionranktotal": -1,
+      "lastmatchdate": 1721688872,
+      "highestrank": 122,
+      "highestranklevel": 1,
+      "highestrating": 1855
+    }
+  ],
+  "rankTotal": 73721
+}
