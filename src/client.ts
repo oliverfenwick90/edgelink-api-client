@@ -26,7 +26,7 @@ export enum LeaderboardName {
   CO_TEAM_EW_RANKED = "CO_TEAM_EW_RANKED",
   SOLO_POM_CUSTOM_RANKED = "SOLO_POM_CUSTOM_RANKED",
   TEAM_POM_CUSTOM_RANKED = "TEAM_POM_CUSTOM_RANKED",
-  RBW_El_Reinado = "RBW_El_Reinado"
+  RBW_El_Reinado = "RBW_El_Reinado",
 }
 
 export interface LeaderboardResponse {
@@ -53,7 +53,7 @@ export enum MatchTypeName {
   CUSTOM_DM_TEAM = "CUSTOM_DM_TEAM",
   CUSTOM_POM_ONE_V_ONE = "CUSTOM_POM_1v1",
   CUSTOM_POM_TEAM = "CUSTOM_POM_TEAM",
-  RBW_EL_REINADO = "RBW_EL_REINADO"
+  RBW_EL_REINADO = "RBW_EL_REINADO",
 }
 
 export interface MatchType {
@@ -107,7 +107,7 @@ export enum RaceName {
   GURJARAS = "Gurjaras",
   ROMANS = "Romans",
   ARMENIANS = "Armenians",
-  GEORGIANS = "Georgians"
+  GEORGIANS = "Georgians",
 }
 
 export interface Race {
@@ -125,7 +125,7 @@ export enum RegionName {
   SOUTH_AMERICA = "South America",
   OCEANIA = "Oceania",
   AFRICA = "Africa",
-  UNKNOWN = "Unknown"
+  UNKNOWN = "Unknown",
 }
 
 export interface LeaderboardRegion {
@@ -183,7 +183,7 @@ export interface GetRecentMatchHistoryResponse {
   result: Result;
   matchHistoryStats: MatchHistoryStats[];
   profiles: Profile[];
-};
+}
 
 export interface MatchHistoryStats {
   id: number;
@@ -201,7 +201,7 @@ export interface MatchHistoryStats {
   matchhistoryitems: any[];
   matchurls: MatchURL[];
   matchhistorymember: MatchHistoryMember[];
-};
+}
 
 export interface MatchHistoryReportResult {
   matchhistory_id: number;
@@ -213,7 +213,7 @@ export interface MatchHistoryReportResult {
   counters: string;
   matchstartdate: number;
   civilization_id: number;
-};
+}
 
 export interface MatchHistoryMember {
   matchhistory_id: number;
@@ -230,14 +230,14 @@ export interface MatchHistoryMember {
   newrating: number;
   reporttype: number;
   civilization_id: number;
-};
+}
 
 export interface MatchURL {
   profile_id: number;
   url: string;
   size: number;
   datatype: number;
-};
+}
 
 export interface Profile {
   profile_id: number;
@@ -248,37 +248,77 @@ export interface Profile {
   level: number;
   leaderboardregion_id: number;
   country: string;
-};
+}
 
 export class EdgeLinkApiClient {
-  private static readonly AOE_WORLDS_EDGE_LINK_BASE_URL = 'https://aoe-api.worldsedgelink.com/community';
+  private static readonly AOE_WORLDS_EDGE_LINK_BASE_URL =
+    "https://aoe-api.worldsedgelink.com/community";
   private static readonly GET_AVAILABLE_LEADERBOARDS_URL = `${EdgeLinkApiClient.AOE_WORLDS_EDGE_LINK_BASE_URL}/leaderboard/getAvailableLeaderboards?title=age2`;
   private static readonly GET_LEADERBOARD_BASE_URL = `${EdgeLinkApiClient.AOE_WORLDS_EDGE_LINK_BASE_URL}/leaderboard/getLeaderBoard2?title=age2`;
   private static readonly GET_RECENT_MATCH_HISTORY_BASE_URL = `${EdgeLinkApiClient.AOE_WORLDS_EDGE_LINK_BASE_URL}/leaderboard/getRecentMatchHistory?title=age2`;
 
-  private getLeaderboardUrl(leaderboardId: number, start: number = 1, count: number = 200): string {
+  private getLeaderboardUrl(
+    leaderboardId: number,
+    start: number = 1,
+    count: number = 200
+  ): string {
     return `${EdgeLinkApiClient.GET_LEADERBOARD_BASE_URL}&leaderboard_id=${leaderboardId}&start=${start}&count=${count}`;
   }
 
   private getRecentMatchHistoryUrl(profileIds: number[]): string {
-    return `${EdgeLinkApiClient.GET_RECENT_MATCH_HISTORY_BASE_URL}&profile_ids=[${profileIds.join(',')}]`;
+    return `${
+      EdgeLinkApiClient.GET_RECENT_MATCH_HISTORY_BASE_URL
+    }&profile_ids=[${profileIds.join(",")}]`;
+  }
+
+  private async fetchWithRetry<T>(url: string): Promise<T> {
+    for (let retry = 0; retry < 6; retry++) {
+      const response = await fetch(url);
+      if (response.status !== 200) {
+        console.log(
+          `Request attempt ${retry + 1} failed with status ${response.status}`
+        );
+        const backoffTime = Math.pow(2, retry) * 1000;
+        await new Promise((resolve) => setTimeout(resolve, backoffTime));
+      } else {
+        try {
+          const jsonResponse = await response.json();
+          return jsonResponse;
+        } catch (e) {
+          console.log(
+            `Request attempt ${
+              retry + 1
+            } failed to parse response as JSON: ${e}`
+          );
+          const backoffTime = Math.pow(2, retry) * 1000;
+          await new Promise((resolve) => setTimeout(resolve, backoffTime));
+        }
+      }
+    }
+    throw new Error("Request failed after 6 retries");
   }
 
   public async getAvailableLeaderboards(): Promise<GetAvailableLeaderboardsResponse> {
-    const response = await fetch(EdgeLinkApiClient.GET_AVAILABLE_LEADERBOARDS_URL);
-    const data: GetAvailableLeaderboardsResponse = await response.json();
-    return data;
+    return this.fetchWithRetry<GetAvailableLeaderboardsResponse>(
+      EdgeLinkApiClient.GET_AVAILABLE_LEADERBOARDS_URL
+    );
   }
 
-  public async getLeaderboard(leaderboardId: number, start?: number, count?: number): Promise<GetLeaderboardResponse> {
-    const response = await fetch(this.getLeaderboardUrl(leaderboardId, start, count));
-    const data: GetLeaderboardResponse = await response.json();
-    return data;
+  public async getLeaderboard(
+    leaderboardId: number,
+    start?: number,
+    count?: number
+  ): Promise<GetLeaderboardResponse> {
+    return this.fetchWithRetry<GetLeaderboardResponse>(
+      this.getLeaderboardUrl(leaderboardId, start, count)
+    );
   }
 
-  public async getRecentMatchHistory(profileIds: number[]): Promise<GetRecentMatchHistoryResponse> {
-    const response = await fetch(this.getRecentMatchHistoryUrl(profileIds));
-    const data: GetRecentMatchHistoryResponse = await response.json();
-    return data;
+  public async getRecentMatchHistory(
+    profileIds: number[]
+  ): Promise<GetRecentMatchHistoryResponse> {
+    return this.fetchWithRetry<GetRecentMatchHistoryResponse>(
+      this.getRecentMatchHistoryUrl(profileIds)
+    );
   }
 }
