@@ -276,7 +276,9 @@ export class EdgeLinkApiClient {
       const response = await fetch(url);
       if (response.status !== 200) {
         console.log(
-          `Request attempt ${retry + 1} failed with status ${response.status}`
+          `Request attempt ${retry + 1} to ${url} failed with status ${
+            response.status
+          }`
         );
         const backoffTime = Math.pow(2, retry) * 1000;
         await new Promise((resolve) => setTimeout(resolve, backoffTime));
@@ -288,14 +290,14 @@ export class EdgeLinkApiClient {
           console.log(
             `Request attempt ${
               retry + 1
-            } failed to parse response as JSON: ${e}`
+            } to ${url} failed to parse response as JSON: ${e}`
           );
           const backoffTime = Math.pow(2, retry) * 1000;
           await new Promise((resolve) => setTimeout(resolve, backoffTime));
         }
       }
     }
-    throw new Error("Request failed after 6 retries");
+    throw new Error(`Request to ${url} failed after 6 retries`);
   }
 
   public async getAvailableLeaderboards(): Promise<GetAvailableLeaderboardsResponse> {

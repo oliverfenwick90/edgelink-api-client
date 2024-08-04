@@ -27,6 +27,7 @@ export interface MatchPlayer {
   country: string;
   steamId: string;
   alias: string;
+  teamId: number;
 }
 
 export class RecentMatchHistory {
@@ -104,6 +105,7 @@ export class RecentMatchHistory {
             alias: profile?.alias || "Unknown",
             country: profile?.country || "Unknown",
             steamId: profile?.name || "Unknown",
+            teamId: player.teamid,
           };
         }),
         matchTypeId: match.matchtype_id,
