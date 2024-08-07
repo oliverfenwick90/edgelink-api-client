@@ -12,6 +12,11 @@ export interface Match {
   matchTypeId: number;
   startTime: number;
   endTime: number;
+  maxPlayers: number;
+  slotInfo: string;
+  options: string;
+  description: string;
+  observerTotal: number;
 }
 
 export interface MatchPlayer {
@@ -111,6 +116,11 @@ export class RecentMatchHistory {
         matchTypeId: match.matchtype_id,
         startTime: match.startgametime,
         endTime: match.completiontime,
+        slotInfo: match.slotinfo,
+        options: match.options,
+        maxPlayers: match.maxplayers,
+        observerTotal: match.observertotal,
+        description: match.description,
       };
     });
   }
