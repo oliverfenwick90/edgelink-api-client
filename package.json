@@ -1,6 +1,6 @@
 {
   "name": "edgelink-api-client",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
@@ -21,8 +21,12 @@
   "description": "A client for the AOE2 EdgeLink API",
   "devDependencies": {
     "@types/node": "^20.14.11",
+    "@types/pako": "^2.0.3",
     "msw": "^2.3.2",
     "typescript": "^5.5.3",
     "vitest": "^2.0.4"
+  },
+  "dependencies": {
+    "pako": "^2.1.0"
   }
 }

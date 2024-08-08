@@ -4,6 +4,7 @@ import {
   MatchHistoryStats,
   Profile,
 } from "./client";
+import { decompressSlotInfo } from "./util";
 
 export interface Match {
   id: number;
@@ -17,6 +18,26 @@ export interface Match {
   options: string;
   description: string;
   observerTotal: number;
+}
+
+export interface SlotInfoMetadata {
+  unknown1: number;
+  civ: number;
+  scenarioToPlayerIndex: number;
+  team: number;
+}
+
+export interface SlotInfo {
+  stationId: number;
+  teamId: number;
+  factionId: number;
+  raceId: number;
+  rankLevel: number;
+  rankMatchTypeId: number;
+  timePerFrameMs: number;
+  isReady: number;
+  status: number;
+  metadata: SlotInfoMetadata;
 }
 
 export interface MatchPlayer {
@@ -33,6 +54,7 @@ export interface MatchPlayer {
   steamId: string;
   alias: string;
   teamId: number;
+  slotInfo: SlotInfo;
 }
 
 export class RecentMatchHistory {
@@ -92,11 +114,37 @@ export class RecentMatchHistory {
     });
 
     return matches.map((match) => {
+      const slotInfo = decompressSlotInfo(match.slotinfo);
+
+      const playerSlotInfoMap = new Map<number, SlotInfo>();
+      for (const slot of slotInfo) {
+        playerSlotInfoMap.set(slot["profileInfo.id"], {
+          stationId: slot.stationID,
+          teamId: slot.teamID,
+          factionId: slot.factionID,
+          raceId: slot.raceID,
+          rankLevel: slot.rankLevel,
+          rankMatchTypeId: slot.rankMakeTypeID,
+          timePerFrameMs: slot.timePerFrameMS,
+          isReady: slot.isReady,
+          status: slot.status,
+          metadata: {
+            unknown1: parseInt(slot.metaData.unknown1),
+            civ: parseInt(slot.metaData.civ),
+            scenarioToPlayerIndex: parseInt(
+              slot.metaData.scenarioToPlayerIndex
+            ),
+            team: parseInt(slot.metaData.team),
+          },
+        });
+      }
+
       return {
         id: match.id,
         map: match.mapname,
         players: match.matchhistorymember.map((player) => {
           const profile = profileMap.get(player.profile_id);
+          const slot = playerSlotInfoMap.get(player.profile_id)!;
           return {
             matchId: match.id,
             profileId: player.profile_id,
@@ -111,6 +159,7 @@ export class RecentMatchHistory {
             country: profile?.country || "Unknown",
             steamId: profile?.name || "Unknown",
             teamId: player.teamid,
+            slotInfo: slot,
           };
         }),
         matchTypeId: match.matchtype_id,

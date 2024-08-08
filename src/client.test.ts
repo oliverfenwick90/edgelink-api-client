@@ -1,4 +1,4 @@
-import { assert, expect, test } from "vitest";
+import { expect, test } from "vitest";
 import { EdgeLinkApiClient } from "./client";
 import responses from "../test/mocks/responses";
 
@@ -20,7 +20,7 @@ test("should get leaderboard 4", async () => {
   expect(leaderboard).toEqual(responses.leaderboards[4]);
 });
 
-test("should get recent matchers", async () => {
+test("should get recent matches", async () => {
   const client = new EdgeLinkApiClient();
   const matches = await client.getRecentMatchHistory([1, 2, 3]);
   expect(matches).toEqual(responses.getRecentMatchHistory);
