@@ -103,17 +103,13 @@ export class RecentMatchHistory {
     );
   }
 
-  getMatches(matchTypeIds: Set<number>): Array<Match> {
+  getMatches(): Array<Match> {
     const profileMap = new Map<number, Profile>();
     for (const profile of this._response.profiles) {
       profileMap.set(profile.profile_id, profile);
     }
 
-    const matches = this._response.matchHistoryStats.filter((match) => {
-      return matchTypeIds.has(match.matchtype_id);
-    });
-
-    return matches.map((match) => {
+    return this._response.matchHistoryStats.map((match) => {
       const slotInfo = decompressSlotInfo(match.slotinfo);
 
       const playerSlotInfoMap = new Map<number, SlotInfo>();
