@@ -125,12 +125,12 @@ export class RecentMatchHistory {
           isReady: slot.isReady,
           status: slot.status,
           metadata: {
-            unknown1: parseInt(slot.metaData.unknown1),
-            civ: parseInt(slot.metaData.civ),
+            unknown1: parseInt(slot.metaData?.unknown1 || "-3"),
+            civ: parseInt(slot.metaData?.civ || "-3"),
             scenarioToPlayerIndex: parseInt(
-              slot.metaData.scenarioToPlayerIndex
+              slot.metaData?.scenarioToPlayerIndex || "-3"
             ),
-            team: parseInt(slot.metaData.team),
+            team: parseInt(slot.metaData?.team || "-3"),
           },
         });
       }
