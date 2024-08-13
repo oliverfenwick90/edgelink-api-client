@@ -4,11 +4,18 @@ import {
   MatchHistoryStats,
   Profile,
 } from "./client";
-import { decompressSlotInfo } from "./util";
+import {
+  decompressOptions,
+  decompressSlotInfo,
+  parseOptions,
+  mapIdToMapName,
+} from "./util";
 
 export interface Match {
   id: number;
   map: string;
+  parsedMap: string;
+  rawMapId: number;
   players: MatchPlayer[];
   matchTypeId: number;
   startTime: number;
@@ -111,6 +118,7 @@ export class RecentMatchHistory {
 
     return this._response.matchHistoryStats.map((match) => {
       const slotInfo = decompressSlotInfo(match.slotinfo);
+      const options = parseOptions(decompressOptions(match.options));
 
       const playerSlotInfoMap = new Map<number, SlotInfo>();
       for (const slot of slotInfo) {
@@ -138,6 +146,8 @@ export class RecentMatchHistory {
       return {
         id: match.id,
         map: match.mapname,
+        parsedMap: mapIdToMapName[options.location],
+        rawMapId: options.location,
         players: match.matchhistorymember.map((player) => {
           const profile = profileMap.get(player.profile_id);
           const slot = playerSlotInfoMap.get(player.profile_id)!;
